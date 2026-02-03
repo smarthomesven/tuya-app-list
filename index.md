@@ -149,6 +149,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Morphy Connect ([Android](https://play.google.com/store/apps/details?id=com.morphyrichards.smart.com)) ([iOS](https://apps.apple.com/app/id6466821059))
 * MP SmartEnergy ([Android](https://play.google.com/store/apps/details?id=ross.home.smart)) ([iOS](https://apps.apple.com/app/id6670250369))
 * Mr. Heater® ([Android](https://play.google.com/store/apps/details?id=com.enerco.mrheater)) ([iOS](https://apps.apple.com/app/id6745172721))
+* Mus Flame ([Android](https://play.google.com/store/apps/details?id=com.richen.musflame.android)) ([iOS](https://apps.apple.com/app/id1535155038))
 * MYJJA ([Android](https://play.google.com/store/apps/details?id=com.myjja.smart)) ([iOS](https://apps.apple.com/app/id6443848527))
 * Navigator SmartHome ([Android](https://play.google.com/store/apps/details?id=com.navigator.smarthome)) ([iOS](https://apps.apple.com/app/id1508309283))
 * Nedis SmartLife ([Android](https://play.google.com/store/apps/details?id=com.nedis.smartlife)) ([iOS](https://apps.apple.com/app/id1428475211))
