@@ -226,6 +226,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * SEDEA Home ([Android](https://play.google.com/store/apps/details?id=com.sedea.sedeahome)) ([iOS](https://apps.apple.com/app/id1517566519))
 * SEMICOM SMART ([Android](https://play.google.com/store/apps/details?id=com.semicom.lexis2)) ([iOS](https://apps.apple.com/app/id1539909352))
 * Shellbot Home ([Android](https://play.google.com/store/apps/details?id=com.deenkee.smart)) ([iOS](https://apps.apple.com/app/id1535317049))
+* Sheng Zhe Wisdom ([iOS](https://apps.apple.com/app/id1600050404))
 * SIMON AIRE ([Android](https://play.google.com/store/apps/details?id=com.simonaireny.us)) ([iOS](https://apps.apple.com/app/id1548963873))
 * Simon Smart ([Android](https://play.google.com/store/apps/details?id=com.simonsmart.cn)) ([iOS](https://apps.apple.com/app/id1449698128))
 * Skillos ([Android](https://play.google.com/store/apps/details?id=com.skillos.home)) ([iOS](https://apps.apple.com/app/id6479320327)) ([iOS](https://apps.apple.com/app/id6471516894))
