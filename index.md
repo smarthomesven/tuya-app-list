@@ -43,6 +43,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * CL Small Devices ([Android](https://play.google.com/store/apps/details?id=com.con.sec)) ([iOS](https://apps.apple.com/app/id1613312684))
 * Click Smart + ([Android](https://play.google.com/store/apps/details?id=com.clicksmart.plus)) ([iOS](https://apps.apple.com/app/id1530163827))
 * Co-botic ([Android](https://play.google.com/store/apps/details?id=com.ivac.cobotic)) ([iOS](https://apps.apple.com/app/id1549639922))
+* Coby Smart ([Android](https://play.google.com/store/apps/details?id=com.summitllc.cobysmart)) ([iOS](https://apps.apple.com/app/id1633532047))
 * Coel Online ([Android](https://play.google.com/store/apps/details?id=br.com.coel.coelwifi)) ([iOS](https://apps.apple.com/app/id1642570197))
 * Comfort Living ([Android](https://play.google.com/store/apps/details?id=com.comfortliving.comfortliving)) ([iOS](https://apps.apple.com/app/id1562263006))
 * COMPUTHERM Smart ([Android](https://play.google.com/store/apps/details?id=com.computherm.smart)) ([iOS](https://apps.apple.com/app/id6526463123))
