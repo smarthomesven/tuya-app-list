@@ -278,6 +278,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Xtreme Connected Simple Home ([Android](https://play.google.com/store/apps/details?id=com.xtreme.simplehome)) ([iOS](https://apps.apple.com/app/id6615083315))
 * Z SmartHome ([Android](https://play.google.com/store/apps/details?id=com.gmmz.home))
 * ZEMISMART ([Android](https://play.google.com/store/apps/details?id=com.smarthome.life.zemismart)) ([iOS](https://apps.apple.com/app/id6670541613))
+* zhuiguangmotor ([Android](https://play.google.com/store/apps/details?id=com.zhuiguang.motor)) ([iOS](https://apps.apple.com/app/id6742768967))
 * ZSmart ([Android](https://play.google.com/store/apps/details?id=com.zkteco.zsmart)) ([iOS](https://apps.apple.com/app/id1484043889))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
