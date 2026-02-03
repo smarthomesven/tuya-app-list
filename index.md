@@ -2,6 +2,7 @@
 
 This list contains all known Tuya-based apps. If you know any more, please mention them in the [forum topic](https://community.homey.app/t/list-all-known-tuya-based-apps/147342?u=smarthomesven)
 
+* 3E Smart ([Android](https://play.google.com/store/apps/details?id=com.danei343434.smart3e2)) ([iOS](https://apps.apple.com/app/id6670271783))
 * A2 Smart Living ([Android](https://play.google.com/store/apps/details?id=com.a2.smartlivings)) ([iOS](https://apps.apple.com/app/id6738913408))
 * A2O ([Android](https://play.google.com/store/apps/details?id=com.a20.aqps)) ([iOS](https://apps.apple.com/app/id6443875849))
 * ACC InstaHome ([Android](https://play.google.com/store/apps/details?id=com.acc.home)) ([iOS](https://apps.apple.com/app/id1642285530))
