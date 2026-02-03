@@ -37,6 +37,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * BrightStorm Smart ([Android](https://play.google.com/store/apps/details?id=com.app.bssmart)) ([iOS](http://apps.apple.com/app/id6744144365))
 * Brilliant Smart ([Android](https://play.google.com/store/apps/details?id=com.brilliantlighting.brain)) ([iOS](https://apps.apple.com/app/id1440268035))
 * Brilliance Smart ([Android](https://play.google.com/store/apps/details?id=com.brilliance.smartsocket)) ([iOS](https://apps.apple.com/app/id1441378472))
+* Broan-NuTone Air Purifier ([Android](https://play.google.com/store/apps/details?id=com.broan.smart)) ([iOS](https://apps.apple.com/app/id6444389495))
 * C&JsmartFIRE ([Android](https://play.google.com/store/apps/details?id=com.cnjsmartfire.and)) ([iOS](https://apps.apple.com/app/id1592795315))
 * Calex smart ([Android](https://play.google.com/store/apps/details?id=com.calexsmart.smart)) ([iOS](https://apps.apple.com/app/id1471978691))
 * Camelion Smart Home ([Android](https://play.google.com/store/apps/details?id=com.est)) ([iOS](https://apps.apple.com/app/id1592688430))
