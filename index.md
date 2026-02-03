@@ -70,6 +70,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ENERGIZER Smart ([Android](https://play.google.com/store/apps/details?id=com.energizer.smart)) ([iOS](https://apps.apple.com/app/id1524392136))
 * Energizer Connect ([Android](https://play.google.com/store/apps/details?id=com.xtreme.energizer)) ([iOS](https://apps.apple.com/app/id1362829750))
 * ENGO Smart ([Android](https://play.google.com/store/apps/details?id=com.engo.smartlife)) ([iOS](https://apps.apple.com/app/id1606693444))
+* ETA Smart ([Android](https://play.google.com/store/apps/details?id=com.ETArobots.smart)) ([iOS](https://apps.apple.com/app/id1525697448))
 * ETNA connect ([Android](https://play.google.com/store/apps/details?id=etna.kitchen.appliances)) ([iOS](https://apps.apple.com/app/id1619093374))
 * Eurom Smart ([Android](https://play.google.com/store/apps/details?id=com.eurom.smart)) ([iOS](https://apps.apple.com/app/id1253271177))
 * Extralink Smart Life ([Android](https://play.google.com/store/apps/details?id=com.estra)) ([iOS](https://apps.apple.com/app/id1658559147))
