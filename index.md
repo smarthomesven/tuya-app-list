@@ -240,6 +240,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * SylSmart Home ([Android](https://play.google.com/store/apps/details?id=com.sylvania.sylsmarthome)) ([iOS](https://apps.apple.com/nl/app/id1544256125))
 * TASCHIBRA SMART ([Android](https://play.google.com/store/apps/details?id=com.taschibra.smart)) ([iOS](https://apps.apple.com/app/id1541466867))
 * TECNO Smart Home ([Android](https://play.google.com/store/apps/details?id=com.smartnovolife)) ([iOS](https://apps.apple.com/app/id1591860728))
+* Tecnolite Connect ([Android](https://play.google.com/store/apps/details?id=com.tecno.smart)) ([iOS](https://apps.apple.com/app/id1489981663))
 * Tellur Smart ([Android](https://play.google.com/store/apps/details?id=com.tllsmrt.smart)) ([iOS](https://apps.apple.com/app/id1431862324))
 * TESLA Smart ([Android](https://play.google.com/store/apps/details?id=com.tesla.smart)) ([iOS](https://apps.apple.com/app/id1548684055))
 * Tesla Smart Choice ([Android](https://play.google.com/store/apps/details?id=com.smart.tesla)) ([iOS](https://apps.apple.com/app/id1567096522))
