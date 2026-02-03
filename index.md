@@ -180,6 +180,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * qnect home ([Android](https://play.google.com/store/apps/details?id=com.qnecthome.smart)) ([iOS](https://apps.apple.com/app/id1485716388))
 * Quality Heating ([Android](https://play.google.com/store/apps/details?id=com.quality.heating)) ([iOS](https://apps.apple.com/app/id1463765904))
 * RainPoint-TY ([Android](https://play.google.com/store/apps/details?id=com.baldr.rainpoint)) ([iOS](https://apps.apple.com/app/id1499024309))
+* RCA Smart Home ([Android](https://play.google.com/store/apps/details?id=com.summitllc.rcasmarthome)) ([iOS](https://apps.apple.com/app/id1592813114))
 * Resun Smart ([Android](https://play.google.com/store/apps/details?id=resun.com)) ([iOS](https://apps.apple.com/app/id1564691703))
 * REVEX Timer ([Android](https://play.google.com/store/apps/details?id=com.bn_revex.smart)) ([iOS](https://apps.apple.com/app/id6738333494))
 * Robert Smart ([Android](https://play.google.com/store/apps/details?id=com.robert.smart)) ([iOS](https://apps.apple.com/app/id1501422406))
