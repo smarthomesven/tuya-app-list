@@ -131,6 +131,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Jwcom Smart ([Android](https://play.google.com/store/apps/details?id=net.jwcom.www)) ([iOS](https://apps.apple.com/app/id1441637040))
 * KABUM! smart ([Android](https://play.google.com/store/apps/details?id=com.kabum.smart)) ([iOS](https://apps.apple.com/app/id1491026221))
 * KLD Smart Living ([Android](https://play.google.com/store/apps/details?id=com.kldsmarthomes.android)) ([iOS](https://apps.apple.com/app/id1617280816))
+* Koble Life ([Android](https://play.google.com/store/apps/details?id=com.koble.smart)) ([iOS](https://apps.apple.com/app/id1495124149))
 * Kogan SmarterHome ([Android](https://play.google.com/store/apps/details?id=com.kogan.smarterhome)) ([iOS](https://apps.apple.com/app/id1394930704))
 * Könighaus Smart Home ([Android](https://play.google.com/store/apps/details?id=com.koenighaus.smartapp)) ([iOS](https://apps.apple.com/app/id1448651439))
 * Kruidvat Smart Home ([Android](https://play.google.com/store/apps/details?id=kv.kruidvat.smart.home)) ([iOS](https://apps.apple.com/app/id1522421052))
