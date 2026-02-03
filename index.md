@@ -256,6 +256,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * VIO Smart ([Android](https://play.google.com/store/apps/details?id=com.vio.sg)) ([iOS](https://apps.apple.com/app/id1587640238))
 * VistaPro Smart ([Android](https://play.google.com/store/apps/details?id=com.vistasmart.smart)) ([iOS](https://apps.apple.com/app/id1502499886))
 * Vivitar Smart Security 2 ([Android](https://play.google.com/store/apps/details?id=com.vivitarsecurity.smart)) ([iOS](https://apps.apple.com/app/id1457922934))
+* VoiceControl ([Android](https://play.google.com/store/apps/details?id=broan.fan.voice.control)) ([iOS](https://apps.apple.com/app/id1618250982))
 * Walton Smart Appliances ([Android](https://play.google.com/store/apps/details?id=com.waltonsmartac)) ([iOS](https://apps.apple.com/app/id1489686245))
 * Westinghouse ([Android](https://play.google.com/store/apps/details?id=com.wst.wstwh)) ([iOS](https://apps.apple.com/app/id6443497424))
 * Westinghouse Butler ([Android](https://play.google.com/store/apps/details?id=com.westinghouse.security)) ([iOS](https://apps.apple.com/app/id1510919539))
