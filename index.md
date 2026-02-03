@@ -85,6 +85,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Extralink Smart Life ([Android](https://play.google.com/store/apps/details?id=com.estra)) ([iOS](https://apps.apple.com/app/id1658559147))
 * EXTRAVIS ([Android](https://play.google.com/store/apps/details?id=com.extravishome.smart)) ([iOS](https://apps.apple.com/app/id6504791824))
 * Ezylife ([Android](https://play.google.com/store/apps/details?id=com.ezy.life)) ([iOS](https://apps.apple.com/app/id6751316476))
+* FAMMIXHOME/FAMMIX智慧管家 ([Android](https://play.google.com/store/apps/details?id=com.vichys.tw)) ([iOS](https://apps.apple.com/app/id1562621845))
 * Fancyleds ([Android](https://play.google.com/store/apps/details?id=com.fancyleds.app)) ([iOS](https://apps.apple.com/app/id1626707976))
 * Fansio ([Android](https://play.google.com/store/apps/details?id=com.fansio.smart)) ([iOS](https://apps.apple.com/app/id1524898814))
 * Feit Electric ([Android](https://play.google.com/store/apps/details?id=com.feit.smart)) ([iOS](https://apps.apple.com/app/id1333066476))
