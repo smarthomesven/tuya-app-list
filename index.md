@@ -188,6 +188,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Okasha Smart ([Android](https://play.google.com/store/apps/details?id=com.okasha.smart)) ([iOS](https://apps.apple.com/app/id1481400415))
 * Okos Smart ([Android](https://play.google.com/store/apps/details?id=in.okos.smart)) ([iOS](https://apps.apple.com/app/id1526428086))
 * Omajin ([Android](https://play.google.com/store/apps/details?id=com.omajin.eu)) ([iOS](https://apps.apple.com/app/id6572292737))
+* OMIX ([Android](https://play.google.com/store/apps/details?id=com.omix.www)) ([iOS](https://apps.apple.com/app/id1632865144))
 * Orange Smart Home ([Android](https://play.google.com/store/apps/details?id=com.orange.be.smarthome)) ([iOS](https://apps.apple.com/nl/app/id1526644568))
 * Orange Smart Life Jo ([Android](https://play.google.com/store/apps/details?id=com.orangeJo.Smart)) ([iOS](https://apps.apple.com/app/id1532105682))
 * Orient Smart ([Android](https://play.google.com/store/apps/details?id=com.orientelectric.smart)) ([iOS](https://apps.apple.com/app/id1444416754))
