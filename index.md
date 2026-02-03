@@ -33,6 +33,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * BeSmart-Living ([Android](https://play.google.com/store/apps/details?id=com.besmart.smart)) ([iOS](https://apps.apple.com/app/id1549122622))
 * BlueBot ([Android](https://play.google.com/store/apps/details?id=com.bluebot.smart))
 * Bimar-Live Smart ([Android](https://play.google.com/store/apps/details?id=com.ap.bmr))
+* BIVALE Smart Life ([iOS](https://apps.apple.com/app/id6504385409))
 * BN-LINK Smart ([Android](https://play.google.com/store/apps/details?id=com.BN_LINKSmart.smart)) ([iOS](https://apps.apple.com/app/id1543390446))
 * BREND ([Android](https://play.google.com/store/apps/details?id=com.brend.android)) ([iOS](https://apps.apple.com/app/id6743732928))
 * Brennenstuhl Connect ([Android](https://play.google.com/store/apps/details?id=com.brennenstuhl.connect)) ([iOS](https://apps.apple.com/app/id1480692952))
