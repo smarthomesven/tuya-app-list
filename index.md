@@ -129,6 +129,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * jafanda ([Android](https://play.google.com/store/apps/details?id=com.jafanda.airpurifier)) ([iOS](https://apps.apple.com/app/id6446755804))
 * JascoPro Series ([Android](https://play.google.com/store/apps/details?id=com.jascopro.smart)) ([iOS](https://apps.apple.com/app/id1602400684))
 * Jwcom Smart ([Android](https://play.google.com/store/apps/details?id=net.jwcom.www)) ([iOS](https://apps.apple.com/app/id1441637040))
+* Kaadas Lock ([Android](https://play.google.com/store/apps/details?id=com.kklock.android)) ([iOS](https://apps.apple.com/app/id6497878509))
 * KABUM! smart ([Android](https://play.google.com/store/apps/details?id=com.kabum.smart)) ([iOS](https://apps.apple.com/app/id1491026221))
 * KLD Smart Living ([Android](https://play.google.com/store/apps/details?id=com.kldsmarthomes.android)) ([iOS](https://apps.apple.com/app/id1617280816))
 * Koble Life ([Android](https://play.google.com/store/apps/details?id=com.koble.smart)) ([iOS](https://apps.apple.com/app/id1495124149))
