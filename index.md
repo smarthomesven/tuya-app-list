@@ -196,6 +196,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Pet Zero ([Android](https://play.google.com/store/apps/details?id=com.kkpetfeeder.petzero.android)) ([iOS](https://apps.apple.com/app/id1507536028))
 * Petsuper ([Android](https://play.google.com/store/apps/details?id=com.petsuper.petsuper)) ([iOS](https://apps.apple.com/app/id6463713838))
 * pjrobot ([Android](https://play.google.com/store/apps/details?id=pj.smart)) ([iOS](https://apps.apple.com/app/id1635727214))
+* POIEMA APP ([Android](https://play.google.com/store/apps/details?id=com.poiema.android)) ([iOS](https://apps.apple.com/app/id1562079478))
 * Premier Smart ([Android](https://play.google.com/store/apps/details?id=com.premier.smart)) ([iOS](https://apps.apple.com/app/id1470040042))
 * PRIMERO Smart Home ([Android](https://play.google.com/store/apps/details?id=com.primerosmarthome.smart)) ([iOS](https://apps.apple.com/app/id6670237898))
 * Princess Home ([Android](https://play.google.com/store/apps/details?id=com.princess.home)) ([iOS](https://apps.apple.com/app/id1631159900))
