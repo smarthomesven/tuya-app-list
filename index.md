@@ -23,6 +23,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Atomi Smart ([Android](https://play.google.com/store/apps/details?id=com.atomi.smart)) ([iOS](https://apps.apple.com/app/id1414704585))
 * AX Home ([Android](https://play.google.com/store/apps/details?id=de.axdia.axhome)) ([iOS](https://apps.apple.com/app/id6499128017))
 * AZzardoSmart ([Android](https://play.google.com/store/apps/details?id=com.azzardo.www)) ([iOS](https://apps.apple.com/app/id1449817855))
+* Bagotte ([Android](https://play.google.com/store/apps/details?id=com.bghome.smart)) ([iOS](https://apps.apple.com/app/id1473767051))
 * Bajaj Smart ([Android](https://play.google.com/store/apps/details?id=com.bajaj.iot.www)) ([iOS](https://apps.apple.com/app/id1532704778))
 * Bardi Smart Home ([Android](https://play.google.com/store/apps/details?id=com.bardi.smart.home)) ([iOS](https://apps.apple.com/app/id1463829491))
 * BeSmart-Living ([Android](https://play.google.com/store/apps/details?id=com.besmart.smart)) ([iOS](https://apps.apple.com/app/id1549122622))
