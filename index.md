@@ -158,6 +158,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Lockec Smart ([Android](https://play.google.com/store/apps/details?id=com.lockec.smart)) ([iOS](https://apps.apple.com/app/id144946666))
 * LSC Smart Connect ([Android](https://play.google.com/store/apps/details?id=com.lscsmartconnection.smart)) ([iOS](https://apps.apple.com/app/id1461044590))
 * LUUMR ([Android](https://play.google.com/store/apps/details?id=luumr.app)) ([iOS](https://apps.apple.com/app/id6470302637))
+* LUXUS ONE ([Android](https://play.google.com/store/apps/details?id=luxusone.sg)) ([iOS](https://apps.apple.com/app/id6751254563))
 * MAGNUM Heat ([Android](https://play.google.com/store/apps/details?id=com.magnumheat.smart)) ([iOS](https://apps.apple.com/app/id1488701284))
 * Maginon Smart Home ([Android](https://play.google.com/store/apps/details?id=com.maginon.smartlife1))
 * Marmitek Smart me ([Android](https://play.google.com/store/apps/details?id=com.marmitek.smartme)) ([iOS](https://apps.apple.com/app/id1478119966))
