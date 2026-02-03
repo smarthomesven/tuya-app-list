@@ -108,6 +108,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Henden Heat Pump ([Android](https://play.google.com/store/apps/details?id=com.reece.sarmt)) ([iOS](https://apps.apple.com/app/id6569243082))
 * HG5 ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg5)) ([iOS](https://apps.apple.com/app/id6444718964))
 * HG Robots ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg4)) ([iOS](https://apps.apple.com/app/id6466626489))
+* HIKOBIKE ([Android](https://play.google.com/store/apps/details?id=hik.onz)) ([iOS](https://apps.apple.com/app/id6746408570))
 * Hitachi Smart Life ([Android](https://play.google.com/store/apps/details?id=hit.t))
 * Hoftronic Smart ([Android](https://play.google.com/store/apps/details?id=com.hoftronic.homeylux)) ([iOS](https://apps.apple.com/app/id1490994804))
 * Hombli ([Android](https://play.google.com/store/apps/details?id=com.hombli.smart)) ([iOS](https://apps.apple.com/app/id1476038766))
