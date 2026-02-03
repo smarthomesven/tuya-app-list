@@ -122,6 +122,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
 * Intelligent Air ([Android](https://play.google.com/store/apps/details?id=com.aircondition.smart)) ([iOS](https://apps.apple.com/app/id1512905825))
 * Inventor Control ([Android](https://play.google.com/store/apps/details?id=com.Inventor.Control)) ([iOS](https://apps.apple.com/app/id1527983830))
+* Jadrimex ([Android](https://play.google.com/store/apps/details?id=com.jadrimex)) ([iOS](https://apps.apple.com/app/id6738417576))
 * jafanda ([Android](https://play.google.com/store/apps/details?id=com.jafanda.airpurifier)) ([iOS](https://apps.apple.com/app/id6446755804))
 * JascoPro Series ([Android](https://play.google.com/store/apps/details?id=com.jascopro.smart)) ([iOS](https://apps.apple.com/app/id1602400684))
 * Jwcom Smart ([Android](https://play.google.com/store/apps/details?id=net.jwcom.www)) ([iOS](https://apps.apple.com/app/id1441637040))
