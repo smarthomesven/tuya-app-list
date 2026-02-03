@@ -1,3 +1,5 @@
+# Tuya-based OEM app list
+
 This list contains all known Tuya-based apps. If you know any more, please mention them in the [forum topic](https://community.homey.app/t/list-all-known-tuya-based-apps/147342?u=smarthomesven)
 
 * A2 Smart Living ([Android](https://play.google.com/store/apps/details?id=com.a2.smartlivings)) ([iOS](https://apps.apple.com/app/id6738913408))
