@@ -154,6 +154,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Maginon Smart Home ([Android](https://play.google.com/store/apps/details?id=com.maginon.smartlife1))
 * Marmitek Smart me ([Android](https://play.google.com/store/apps/details?id=com.marmitek.smartme)) ([iOS](https://apps.apple.com/app/id1478119966))
 * Maxim Smart ([Android](https://play.google.com/store/apps/details?id=com.maximsmart)) ([iOS](https://apps.apple.com/app/id1523958620))
+* mayer home ([Android](https://play.google.com/store/apps/details?id=mayer.sg)) ([iOS](https://apps.apple.com/app/id6743083444))
 * MEDION Life+ ([Android](https://play.google.com/store/apps/details?id=com.medion.medionlifeplus)) ([iOS](https://apps.apple.com/nl/app/id1325118825))
 * Mercury Smart ([Android](https://play.google.com/store/apps/details?id=com.mercury.smart)) ([iOS](https://apps.apple.com/app/id1584993396))
 * mEzee ([Android](https://play.google.com/store/apps/details?id=com.prolink.mezee)) ([iOS](https://apps.apple.com/app/id1457286487))
