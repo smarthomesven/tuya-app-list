@@ -14,6 +14,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Airam SmartHome ([Android](https://play.google.com/store/apps/details?id=com.iot.airam)) ([iOS](https://apps.apple.com/app/id1547232010))
 * Akai Energy Smart ([Android](https://play.google.com/store/apps/details?id=com.akaienergy.smart)) ([iOS](https://apps.apple.com/app/id1558027582))
 * Akai Home ([Android](https://play.google.com/store/apps/details?id=com.akai.home)) ([iOS](https://apps.apple.com/app/id1533632418))
+* Algeco ([Android](https://play.google.com/store/apps/details?id=com.algeco.app)) ([iOS](https://apps.apple.com/app/id6550900643))
 * Alpina Smart ([Android](https://play.google.com/store/apps/details?id=com.alpina.smart)) ([iOS](https://apps.apple.com/app/id1568011391))
 * AlpSmart ([Android](https://play.google.com/store/apps/details?id=com.alpsmart.wifi)) ([iOS](https://apps.apple.com/app/id1364722837))
 * Altec Smart 2 ([Android](https://play.google.com/store/apps/details?id=com.altec.smart)) ([iOS](https://apps.apple.com/app/id1452447507))
