@@ -79,6 +79,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Fansio ([Android](https://play.google.com/store/apps/details?id=com.fansio.smart)) ([iOS](https://apps.apple.com/app/id1524898814))
 * Feit Electric ([Android](https://play.google.com/store/apps/details?id=com.feit.smart)) ([iOS](https://apps.apple.com/app/id1333066476))
 * FlinQ ([Android](https://play.google.com/store/apps/details?id=app.flinqcommerce.nl)) ([iOS](https://apps.apple.com/app/id1664413721))
+* fmart smart ([Android](https://play.google.com/store/apps/details?id=com.fmart.smart)) ([iOS](https://apps.apple.com/app/id1191681043))
 * G-Life Smart ([Android](https://play.google.com/store/apps/details?id=com.generallife.tr)) ([iOS](https://apps.apple.com/app/id6443701064))
 * G-Light Smart ([Android](https://play.google.com/store/apps/details?id=com.smart.glight)) ([iOS](https://apps.apple.com/app/id1573519590))
 * Geevon Life ([iOS](https://apps.apple.com/app/id6444039828))
