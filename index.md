@@ -113,6 +113,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * JascoPro Series ([Android](https://play.google.com/store/apps/details?id=com.jascopro.smart)) ([iOS](https://apps.apple.com/app/id1602400684))
 * Jwcom Smart ([Android](https://play.google.com/store/apps/details?id=net.jwcom.www)) ([iOS](https://apps.apple.com/app/id1441637040))
 * KLD Smart Living ([Android](https://play.google.com/store/apps/details?id=com.kldsmarthomes.android)) ([iOS](https://apps.apple.com/app/id1617280816))
+* Könighaus Smart Home ([Android](https://play.google.com/store/apps/details?id=com.koenighaus.smartapp) ([iOS](https://apps.apple.com/app/id1448651439))
 * Kruidvat Smart Home ([Android](https://play.google.com/store/apps/details?id=kv.kruidvat.smart.home)) ([iOS](https://apps.apple.com/app/id1522421052))
 * LAMPTAN SMART ([Android](https://play.google.com/store/apps/details?id=com.lamptan.smart)) ([iOS](https://apps.apple.com/app/id1484819385))
 * Laresmart ([Android](https://play.google.com/store/apps/details?id=com.laresmart.clean)) ([iOS](https://apps.apple.com/app/id1585117977))
