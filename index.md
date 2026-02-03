@@ -118,6 +118,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * HonySmart ([Android](https://play.google.com/store/apps/details?id=com.honiture.robotvaccum)) ([iOS](https://apps.apple.com/app/id1525674300))
 * Hyundai Home ([Android](https://play.google.com/store/apps/details?id=com.tic.hyundaihome)) ([iOS](https://apps.apple.com/app/id1522922176))
 * iBoto Smart ([Android](https://play.google.com/store/apps/details?id=com.iboto.smart)) ([iOS](https://apps.apple.com/app/id1524595220))
+* i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
 * Intelligent Air ([Android](https://play.google.com/store/apps/details?id=com.aircondition.smart)) ([iOS](https://apps.apple.com/app/id1512905825))
 * Inventor Control ([Android](https://play.google.com/store/apps/details?id=com.Inventor.Control)) ([iOS](https://apps.apple.com/app/id1527983830))
 * jafanda ([Android](https://play.google.com/store/apps/details?id=com.jafanda.airpurifier)) ([iOS](https://apps.apple.com/app/id6446755804))
