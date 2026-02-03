@@ -56,6 +56,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * DIGMA SmartLife ([Android](https://play.google.com/store/apps/details?id=com.digma.smart)) ([iOS](https://apps.apple.com/app/id1405367542))
 * Duux Gen1 ([Android](https://play.google.com/store/apps/details?id=com.duux.control)) ([iOS](https://apps.apple.com/app/id1474620119))
 * Earnest Living ([Android](https://play.google.com/store/apps/details?id=elegantsmarthomes.com)) ([iOS](https://apps.apple.com/app/id6463022179))
+* Easine ([Android](https://play.google.com/store/apps/details?id=com.easine.eu.ilife)) ([iOS](https://apps.apple.com/app/id6743065580))
 * Eco4Life Smart Home Controller ([Android](https://play.google.com/store/apps/details?id=com.kelement.smart)) ([iOS](https://apps.apple.com/app/id1276153996))
 * EdiSmart Pro ([Android](https://play.google.com/store/apps/details?id=com.edimax.smartpro)) ([iOS](https://apps.apple.com/app/id1492245019))
 * EDUP Smart ([Android](https://play.google.com/store/apps/details?id=com.edup.smart)) ([iOS](https://apps.apple.com/app/id1601096368))
