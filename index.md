@@ -123,6 +123,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Lidl Home ([Android](https://play.google.com/store/apps/details?id=com.lidlhome.smart)) ([iOS](https://apps.apple.com/nl/app/lidl-home/id1504839856))
 * LIFETAIL ([Android](https://play.google.com/store/apps/details?id=com.petsuper)) ([iOS](https://apps.apple.com/app/id1631321774))
 * Lightpro ([Android](https://play.google.com/store/apps/details?id=com.techmar.lightpro)) ([iOS](https://apps.apple.com/app/id1662825922))
+* Link Sensio ([Android](https://play.google.com/store/apps/details?id=com.linksensio.lighting)) ([iOS](https://apps.apple.com/app/id1521425169))
 * littlelf smart ([Android](https://play.google.com/store/apps/details?id=com.littlelf.smarthome)) ([iOS](https://apps.apple.com/app/id1403309262))
 * Linus Smart ([Android](https://play.google.com/store/apps/details?id=com.linus.smart)) ([iOS](https://apps.apple.com/app/id1530894750))
 * Living Comfort ([Android](https://play.google.com/store/apps/details?id=com.livingcomfort.smart)) ([iOS](https://apps.apple.com/app/id1631845730))
