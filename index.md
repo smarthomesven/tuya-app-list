@@ -21,6 +21,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Altec Smart 2 ([Android](https://play.google.com/store/apps/details?id=com.altec.smart)) ([iOS](https://apps.apple.com/app/id1452447507))
 * Amica Smart ([Android](https://play.google.com/store/apps/details?id=com.amica.smart)) ([iOS](https://apps.apple.com/app/id6742377459))
 * Antik SmartHome ([Android](https://play.google.com/store/apps/details?id=sk.antik.home)) ([iOS](https://apps.apple.com/app/id1584113138))
+* Aqualin ([iOS](https://apps.apple.com/app/id6445850173))
 * Archos Hello Connect
 * Arpha ([Android](https://play.google.com/store/apps/details?id=com.arpha.arpha)) ([iOS](https://apps.apple.com/app/id1468455803))
 * Artika ([Android](https://play.google.com/store/apps/details?id=com.artika.smart)) ([iOS](https://apps.apple.com/app/id1466830190))
@@ -99,6 +100,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * G-Light Smart ([Android](https://play.google.com/store/apps/details?id=com.smart.glight)) ([iOS](https://apps.apple.com/app/id1573519590))
 * Geevon Life ([iOS](https://apps.apple.com/app/id6444039828))
 * GHome ([Android](https://play.google.com/store/apps/details?id=com.gosund.smart)) ([iOS](https://apps.apple.com/app/id1456965228))
+* Gilmour ([Android](https://play.google.com/store/apps/details?id=gilmour.com)) ([iOS](https://apps.apple.com/app/id6572323301))
 * Globe Suite ([Android](https://play.google.com/store/apps/details?id=com.globe.electric)) ([iOS](https://apps.apple.com/app/id1418410758))
 * Go Smart ([Android](https://play.google.com/store/apps/details?id=com.cuco.smart)) ([iOS](https://apps.apple.com/app/id1425735484))
 * Gologi ([Android](https://play.google.com/store/apps/details?id=com.app.gologi)) ([iOS](https://apps.apple.com/app/id1620895197))
@@ -262,6 +264,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * STARWIND SmartLife ([Android](https://play.google.com/store/apps/details?id=com.starwind.smartlife)) ([iOS](https://apps.apple.com/app/id1576404009))
 * Status Smart ([Android](https://play.google.com/store/apps/details?id=com.statusinternational.smart)) ([iOS](https://apps.apple.com/app/id1473472739))
 * Steren Home ([Android](https://play.google.com/store/apps/details?id=com.steren.home)) ([iOS](https://apps.apple.com/app/id1455275889))
+* Stonehouse Smart ([Android](https://play.google.com/store/apps/details?id=com.stonehouse.smart)) ([iOS](https://apps.apple.com/app/id6463493264))
 * SULION IoT ([Android](https://play.google.com/store/apps/details?id=com.es.sulion.smart)) ([iOS](https://apps.apple.com/app/id1465073669))
 * Sundirect Smart ([Android](https://play.google.com/store/apps/details?id=com.sundirect.smart)) ([iOS](https://apps.apple.com/app/id1398707078))
 * Suntek Living ([Android](https://play.google.com/store/apps/details?id=com.suntek.smartlife)) ([iOS](https://apps.apple.com/app/id1638685648))
