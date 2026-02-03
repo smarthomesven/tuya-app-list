@@ -205,6 +205,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Spectrum SMART ([Android](https://play.google.com/store/apps/details?id=com.spectrum.smart)) ([iOS](https://apps.apple.com/app/id1501281003))
 * Spektrum+ Smart Lighting ([Android](https://play.google.com/store/apps/details?id=com.americanlighting.spektrum)) ([iOS](https://apps.apple.com/app/id1508096350))
 * SPJ Smart Lighting ([Android](https://play.google.com/store/apps/details?id=com.spjsmart.app)) ([iOS](https://apps.apple.com/app/id1628974643))
+* SPC IoT ([Android](https://play.google.com/store/apps/details?id=com.spciot.smart)) ([iOS](https://apps.apple.com/app/id1428314353))
 * Starfish Smart Lighting ([Android](https://play.google.com/store/apps/details?id=com.satco.smart)) ([iOS](https://apps.apple.com/app/id1507949233))
 * STARWIND SmartLife ([Android](https://play.google.com/store/apps/details?id=com.starwind.smartlife)) ([iOS](https://apps.apple.com/app/id1576404009))
 * Status Smart ([Android](https://play.google.com/store/apps/details?id=com.statusinternational.smart)) ([iOS](https://apps.apple.com/app/id1473472739))
