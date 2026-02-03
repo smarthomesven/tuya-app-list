@@ -204,6 +204,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart Life Philco ([Android](https://play.google.com/store/apps/details?id=com.Philco.Arcon)) ([iOS](https://apps.apple.com/app/id1530131545))
 * Smart Life Pro ([Android](https://play.google.com/store/apps/details?id=com.zhi.neng2)) ([iOS](https://apps.apple.com/app/id1643717705))
 * Smart Living Pro ([Android](https://play.google.com/store/apps/details?id=com.lanbon.sm.pro)) ([iOS](https://apps.apple.com/app/id6670531398))
+* Smart Mamibot ([Android](https://play.google.com/store/apps/details?id=com.mamibotsmart.smart)) ([iOS](https://apps.apple.com/app/id1437475093))
 * Smart RM ([Android](https://play.google.com/store/apps/details?id=com.heating.smart)) ([iOS](https://apps.apple.com/app/id1437258955))
 * Smart stove ([Android](https://play.google.com/store/apps/details?id=com.hanks.smartstove)) ([iOS](https://apps.apple.com/app/id1233031315))
 * SmartAI ([Android](https://play.google.com/store/apps/details?id=com.smartai.smartai)) ([iOS](https://apps.apple.com/app/id1487052444))
