@@ -136,6 +136,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * MEDION Life+ ([Android](https://play.google.com/store/apps/details?id=com.medion.medionlifeplus)) ([iOS](https://apps.apple.com/nl/app/id1325118825))
 * Mercury Smart ([Android](https://play.google.com/store/apps/details?id=com.mercury.smart)) ([iOS](https://apps.apple.com/app/id1584993396))
 * mEzee ([Android](https://play.google.com/store/apps/details?id=com.prolink.mezee)) ([iOS](https://apps.apple.com/app/id1457286487))
+* Milre Smart ([Android](https://play.google.com/store/apps/details?id=com.milre.smart) ([iOS](https://apps.apple.com/app/id1645342572))
 * Mirati Home ([Android](https://play.google.com/store/apps/details?id=com.homei.appliances)) ([iOS](https://apps.apple.com/app/id1493479149))
 * MOBI Plus ([iOS](https://apps.apple.com/app/id1570409506))
 * MOBI Smart ([Android](https://play.google.com/store/apps/details?id=com.mobi.smart)) ([iOS](https://apps.apple.com/app/id1494085905))
