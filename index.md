@@ -126,6 +126,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Honeywell Smart Ceiling Fan ([Android](https://play.google.com/store/apps/details?id=com.honeywellfan.android)) ([iOS](https://apps.apple.com/app/id6444172744))
 * HonySmart ([Android](https://play.google.com/store/apps/details?id=com.honiture.robotvaccum)) ([iOS](https://apps.apple.com/app/id1525674300))
 * Hyundai Home ([Android](https://play.google.com/store/apps/details?id=com.tic.hyundaihome)) ([iOS](https://apps.apple.com/app/id1522922176))
+* iAppliances ([Android](https://play.google.com/store/apps/details?id=shh.iot.iappliances)) ([iOS](https://apps.apple.com/app/id1542193179))
 * iBoto Smart ([Android](https://play.google.com/store/apps/details?id=com.iboto.smart)) ([iOS](https://apps.apple.com/app/id1524595220))
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
 * Intelligent Air ([Android](https://play.google.com/store/apps/details?id=com.aircondition.smart)) ([iOS](https://apps.apple.com/app/id1512905825))
