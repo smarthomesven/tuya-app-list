@@ -288,6 +288,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Woox home ([Android](https://play.google.com/store/apps/details?id=com.wooxhome.smart)) ([iOS](https://apps.apple.com/us/app/woox-home/id1436052873))
 * WOOX Security ([Android](https://play.google.com/store/apps/details?id=com.security.woox)) ([iOS](https://apps.apple.com/app/id1542296010))
 * Wynbee - Smart Home ([Android](https://play.google.com/store/apps/details?id=com.wynbee.smart)) ([iOS](https://apps.apple.com/app/id1493909358))
+* XLevel ([Android](https://play.google.com/store/apps/details?id=com.xlevel)) ([iOS](https://apps.apple.com/app/id6474339207))
 * Xodo Smart ([Android](https://play.google.com/store/apps/details?id=com.contixo.smart)) ([iOS](https://apps.apple.com/app/id1468630689))
 * Xtreme Connected Simple Home ([Android](https://play.google.com/store/apps/details?id=com.xtreme.simplehome)) ([iOS](https://apps.apple.com/app/id6615083315))
 * Z SmartHome ([Android](https://play.google.com/store/apps/details?id=com.gmmz.home))
