@@ -187,6 +187,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Nexxt Home ([Android](https://play.google.com/store/apps/details?id=com.intcomex.smart)) ([iOS](https://apps.apple.com/app/id1450584298))
 * NGTeco Home ([Android](https://play.google.com/store/apps/details?id=com.ngteco.ngtecohome)) ([iOS](https://apps.apple.com/app/id1515053003))
 * Nous Smart ([Android](https://play.google.com/store/apps/details?id=com.nous.smart)) ([iOS](https://apps.apple.com/app/id1455207708))
+* novita SMART ([Android](https://play.google.com/store/apps/details?id=com.novita.sg)) ([iOS](https://apps.apple.com/app/id1602232319))
 * Okasha Smart ([Android](https://play.google.com/store/apps/details?id=com.okasha.smart)) ([iOS](https://apps.apple.com/app/id1481400415))
 * Okos Smart ([Android](https://play.google.com/store/apps/details?id=in.okos.smart)) ([iOS](https://apps.apple.com/app/id1526428086))
 * Omajin ([Android](https://play.google.com/store/apps/details?id=com.omajin.eu)) ([iOS](https://apps.apple.com/app/id6572292737))
