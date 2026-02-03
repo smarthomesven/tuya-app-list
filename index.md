@@ -23,6 +23,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Archos Hello Connect
 * Artika ([Android](https://play.google.com/store/apps/details?id=com.artika.smart)) ([iOS](https://apps.apple.com/app/id1466830190))
 * Atomi Smart ([Android](https://play.google.com/store/apps/details?id=com.atomi.smart)) ([iOS](https://apps.apple.com/app/id1414704585))
+* Axgon ([Android](https://play.google.com/store/apps/details?id=com.axgon.android)) ([iOS](https://apps.apple.com/app/id6476111466))
 * AX Home ([Android](https://play.google.com/store/apps/details?id=de.axdia.axhome)) ([iOS](https://apps.apple.com/app/id6499128017))
 * AZzardoSmart ([Android](https://play.google.com/store/apps/details?id=com.azzardo.www)) ([iOS](https://apps.apple.com/app/id1449817855))
 * Bagotte ([Android](https://play.google.com/store/apps/details?id=com.bghome.smart)) ([iOS](https://apps.apple.com/app/id1473767051))
