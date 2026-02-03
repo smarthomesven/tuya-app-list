@@ -4,6 +4,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 
 * A2 Smart Living ([Android](https://play.google.com/store/apps/details?id=com.a2.smartlivings)) ([iOS](https://apps.apple.com/app/id6738913408))
 * A2O ([Android](https://play.google.com/store/apps/details?id=com.a20.aqps)) ([iOS](https://apps.apple.com/app/id6443875849))
+* ACC InstaHome ([Android](https://play.google.com/store/apps/details?id=com.acc.home)) ([iOS](https://apps.apple.com/app/id1642285530))
 * Afloia Home ([Android](https://play.google.com/store/apps/details?id=com.apk.afloiahome)) ([iOS](https://apps.apple.com/app/id1565104947))
 * AGL Home ([Android](https://play.google.com/store/apps/details?id=com.agl.home)) ([iOS](https://apps.apple.com/app/id1490099525))
 * AGSHOME ([Android](https://play.google.com/store/apps/details?id=com.ags.home)) ([iOS](https://apps.apple.com/app/id1601916513))
