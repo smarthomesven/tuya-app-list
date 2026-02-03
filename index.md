@@ -54,6 +54,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Connect SmartHome ([Android](https://play.google.com/store/apps/details?id=com.connect.smarthome)) ([iOS](https://apps.apple.com/app/id1462850943))
 * Connected at Home ([Android](https://play.google.com/store/apps/details?id=smartwares.connectedathome)) ([iOS](https://apps.apple.com/app/id1633236680))
 * Construlita Connect ([Android](https://play.google.com/store/apps/details?id=com.construlita.connect)) ([iOS](https://apps.apple.com/app/id1629812848))
+* Cookmix ([Android](https://play.google.com/store/apps/details?id=com.cofar.smartv2)) ([iOS](https://apps.apple.com/app/id6743223406))
 * Coredy Robot ([Android](https://play.google.com/store/apps/details?id=com.coredy.robot)) ([iOS](https://apps.apple.com/app/id1459717220))
 * De Dietrich Smart AC ([Android](https://play.google.com/store/apps/details?id=com.bdrthermea.ac.dedietrich)) ([iOS](https://apps.apple.com/app/id6736655881))
 * DELTACO SMART HOME ([Android](https://play.google.com/store/apps/details?id=com.deltaco.smarthome)) ([iOS](https://apps.apple.com/app/id1483006309))
