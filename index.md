@@ -263,6 +263,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Unifi Smart Home ([Android](https://play.google.com/store/apps/details?id=my.com.unifi.iot)) ([iOS](https://apps.apple.com/app/id6747617555))
 * US Stove Company ([Android](https://play.google.com/store/apps/details?id=com.usstove.pelletstove)) ([iOS](https://apps.apple.com/app/id6448467478))
 * Vacmaster ([Android](https://play.google.com/store/apps/details?id=com.cleva.vacmaster)) ([iOS](https://apps.apple.com/app/id1463926213))
+* Verde Smart ([Android](https://play.google.com/store/apps/details?id=com.verde.smarthome)) ([iOS](https://apps.apple.com/app/id1643093109))
 * VIO Smart ([Android](https://play.google.com/store/apps/details?id=com.vio.sg)) ([iOS](https://apps.apple.com/app/id1587640238))
 * VistaPro Smart ([Android](https://play.google.com/store/apps/details?id=com.vistasmart.smart)) ([iOS](https://apps.apple.com/app/id1502499886))
 * Vivitar Smart Security 2 ([Android](https://play.google.com/store/apps/details?id=com.vivitarsecurity.smart)) ([iOS](https://apps.apple.com/app/id1457922934))
