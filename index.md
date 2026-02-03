@@ -188,6 +188,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Sleek Socket ([Android](https://play.google.com/store/apps/details?id=com.plugwise.smart)) ([iOS](https://apps.apple.com/app/id6736852988))
 * SMART+ ([Android](https://play.google.com/store/apps/details?id=com.ledvance.smartunify)) ([iOS](https://apps.apple.com/nl/app/smart/id1576461012))
 * SMART GDO ([Android](https://play.google.com/store/apps/details?id=com.gdo.smart)) ([iOS](https://apps.apple.com/app/id1481025674))
+* Smart home life ([Android](https://play.google.com/store/apps/details?id=znkit.miffy.saas.siwei)) ([iOS](https://apps.apple.com/app/id6446197647))
 * Smart Life ([Android](https://play.google.com/store/apps/details?id=com.tuya.smartlife)) ([iOS](https://apps.apple.com/app/id1115101477))
 * Smart Life Britania ([Android](https://play.google.com/store/apps/details?id=smart.britania.com)) ([iOS](https://apps.apple.com/app/id1539328554))
 * Smart Life Philco ([Android](https://play.google.com/store/apps/details?id=com.Philco.Arcon)) ([iOS](https://apps.apple.com/app/id1530131545))
