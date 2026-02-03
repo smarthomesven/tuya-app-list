@@ -177,6 +177,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Resun Smart ([Android](https://play.google.com/store/apps/details?id=resun.com)) ([iOS](https://apps.apple.com/app/id1564691703))
 * REVEX Timer ([Android](https://play.google.com/store/apps/details?id=com.bn_revex.smart)) ([iOS](https://apps.apple.com/app/id6738333494))
 * Robert Smart ([Android](https://play.google.com/store/apps/details?id=com.robert.smart)) ([iOS](https://apps.apple.com/app/id1501422406))
+* Rohnson ([Android](https://play.google.com/store/apps/details?id=com.tuya.vasilias)) ([iOS](https://apps.apple.com/app/id1236624226))
 * Sanse Smart ([Android](https://play.google.com/store/apps/details?id=com.sanse.smart)) ([iOS](https://apps.apple.com/app/id1550268348))
 * Secure Smart ([Android](https://play.google.com/store/apps/details?id=com.securesmart.app)) ([iOS](https://apps.apple.com/app/id6748728173))
 * SEDEA Home ([Android](https://play.google.com/store/apps/details?id=com.sedea.sedeahome)) ([iOS](https://apps.apple.com/app/id1517566519))
