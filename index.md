@@ -151,6 +151,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Momax Smart ([Android](https://play.google.com/store/apps/details?id=com.momsmart.lamp)) ([iOS](https://apps.apple.com/app/id1474913815))
 * Monster Smart ([Android](https://play.google.com/store/apps/details?id=com.monster.smart)) ([iOS](https://apps.apple.com/app/id1447483342))
 * Morphy Connect ([Android](https://play.google.com/store/apps/details?id=com.morphyrichards.smart.com)) ([iOS](https://apps.apple.com/app/id6466821059))
+* Motag ([Android](https://play.google.com/store/apps/details?id=com.fesco.motag)) ([iOS](https://apps.apple.com/app/id1640093160))
 * MP SmartEnergy ([Android](https://play.google.com/store/apps/details?id=ross.home.smart)) ([iOS](https://apps.apple.com/app/id6670250369))
 * Mr. Heater® ([Android](https://play.google.com/store/apps/details?id=com.enerco.mrheater)) ([iOS](https://apps.apple.com/app/id6745172721))
 * Mus Flame ([Android](https://play.google.com/store/apps/details?id=com.richen.musflame.android)) ([iOS](https://apps.apple.com/app/id1535155038))
