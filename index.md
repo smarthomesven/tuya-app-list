@@ -80,6 +80,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Calex smart ([Android](https://play.google.com/store/apps/details?id=com.calexsmart.smart)) ([iOS](https://apps.apple.com/app/id1471978691))
 * Camelion Smart Home ([Android](https://play.google.com/store/apps/details?id=com.est)) ([iOS](https://apps.apple.com/app/id1592688430))
 * Carro Home ([Android](https://play.google.com/store/apps/details?id=com.carrohome.smartfan)) ([iOS](https://apps.apple.com/app/id1481436593))
+* casaIQ ([iOS](https://apps.apple.com/app/id6468032530))
 * CBI Home ([Android](https://play.google.com/store/apps/details?id=com.cbilv.cbihome)) ([iOS](https://apps.apple.com/app/id1497417402))
 * Celsi ([Android](https://play.google.com/store/apps/details?id=com.celsi.smart)) ([iOS](https://apps.apple.com/app/id1615740284))
 * CE Smart ([Android](https://play.google.com/store/apps/details?id=com.ce.smart)) ([iOS](https://apps.apple.com/app/id1260847442))
