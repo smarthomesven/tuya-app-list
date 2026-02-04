@@ -245,6 +245,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * NexLife ([Android](https://play.google.com/store/apps/details?id=nex.life)) ([iOS](https://apps.apple.com/nl/app/id6473352469))
 * Nexxt Home ([Android](https://play.google.com/store/apps/details?id=com.intcomex.smart)) ([iOS](https://apps.apple.com/app/id1450584298))
 * NGTeco Home ([Android](https://play.google.com/store/apps/details?id=com.ngteco.ngtecohome)) ([iOS](https://apps.apple.com/app/id1515053003))
+* Nisko Smart ([Android](https://play.google.com/store/apps/details?id=com.nisko.smart)) ([iOS](https://apps.apple.com/app/id1497664824))
 * Noble Home ([Android](https://play.google.com/store/apps/details?id=com.noblehome.app)) ([iOS](https://apps.apple.com/app/id6444775700))
 * Nomadic Controls ([iOS](https://apps.apple.com/app/id6736670640))
 * Nous Smart ([Android](https://play.google.com/store/apps/details?id=com.nous.smart)) ([iOS](https://apps.apple.com/app/id1455207708))
