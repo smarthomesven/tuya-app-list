@@ -82,6 +82,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Cookmix ([Android](https://play.google.com/store/apps/details?id=com.cofar.smartv2)) ([iOS](https://apps.apple.com/app/id6743223406))
 * Coredy Robot ([Android](https://play.google.com/store/apps/details?id=com.coredy.robot)) ([iOS](https://apps.apple.com/app/id1459717220))
 * Croma Sync ([Android](https://play.google.com/store/apps/details?id=com.croma.sync)) ([iOS](https://apps.apple.com/app/id6474095090))
+* Dauer Manufacturing ([Android](https://play.google.com/store/apps/details?id=com.dauermanufacturing.smartiot)) ([iOS](https://apps.apple.com/app/id6499562075))
 * De Dietrich Smart AC ([Android](https://play.google.com/store/apps/details?id=com.bdrthermea.ac.dedietrich)) ([iOS](https://apps.apple.com/app/id6736655881))
 * DELTACO SMART HOME ([Android](https://play.google.com/store/apps/details?id=com.deltaco.smarthome)) ([iOS](https://apps.apple.com/app/id1483006309))
 * DENVER SMART HOME ([Android](https://play.google.com/store/apps/details?id=com.denver.smartliving)) ([iOS](https://apps.apple.com/app/id1484849812))
