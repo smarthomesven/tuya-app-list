@@ -12,6 +12,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * AGL Home ([Android](https://play.google.com/store/apps/details?id=com.agl.home)) ([iOS](https://apps.apple.com/app/id1490099525))
 * AGSHOME ([Android](https://play.google.com/store/apps/details?id=com.ags.home)) ([iOS](https://apps.apple.com/app/id1601916513))
 * AI-Bot ([Android](https://play.google.com/store/apps/details?id=com.xbot.smart)) ([iOS](https://apps.apple.com/app/id1600468827))
+* Aice Easy ([Android](https://play.google.com/store/apps/details?id=com.degfh.my)) ([iOS](https://apps.apple.com/app/id6444029661))
 * Airspool ([Android](https://play.google.com/store/apps/details?id=com.airspool.comfort)) ([iOS](https://apps.apple.com/app/id1621315316))
 * AIRROBO ([Android](https://play.google.com/store/apps/details?id=com.airrobo.iot)) ([iOS](https://apps.apple.com/app/id1614185542))
 * AIWA Smart Connect ([Android](https://play.google.com/store/apps/details?id=aiwa.sh)) ([iOS](https://apps.apple.com/app/id1631969869))
