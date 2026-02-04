@@ -2,6 +2,7 @@
 
 This list contains all known Tuya-based apps. If you know any more, please mention them in the [forum topic](https://community.homey.app/t/list-all-known-tuya-based-apps/147342?u=smarthomesven)
 
+* 18 degrees ([Android](https://play.google.com/store/apps/details?id=com.eighteendegreesapp.smart)) ([iOS](https://apps.apple.com/app/id1492390362))
 * 3E Smart ([Android](https://play.google.com/store/apps/details?id=com.danei343434.smart3e2)) ([iOS](https://apps.apple.com/app/id6670271783))
 * A2 Smart Living ([Android](https://play.google.com/store/apps/details?id=com.a2.smartlivings)) ([iOS](https://apps.apple.com/app/id6738913408))
 * A2O ([Android](https://play.google.com/store/apps/details?id=com.a20.aqps)) ([iOS](https://apps.apple.com/app/id6443875849))
@@ -34,6 +35,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Arpha ([Android](https://play.google.com/store/apps/details?id=com.arpha.arpha)) ([iOS](https://apps.apple.com/app/id1468455803))
 * Artika ([Android](https://play.google.com/store/apps/details?id=com.artika.smart)) ([iOS](https://apps.apple.com/app/id1466830190))
 * Atomi Smart ([Android](https://play.google.com/store/apps/details?id=com.atomi.smart)) ([iOS](https://apps.apple.com/app/id1414704585))
+* AuraSmart ([Android](https://play.google.com/store/apps/details?id=com.aurasmart.security)) ([iOS](https://apps.apple.com/app/id6744069514))
 * AURUMBACH SMART ([Android](https://play.google.com/store/apps/details?id=aurumbachsmart.com)) ([iOS](https://apps.apple.com/app/id6472696069))
 * Ausclimate ([Android](https://play.google.com/store/apps/details?id=com.ausclimate.smart)) ([iOS](https://apps.apple.com/app/id6474173874))
 * Axgon ([Android](https://play.google.com/store/apps/details?id=com.axgon.android)) ([iOS](https://apps.apple.com/app/id6476111466))
@@ -179,6 +181,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
 * Illumismart ([iOS](https://apps.apple.com/app/id1459106470))
 * Indurama Living ([Android](https://play.google.com/store/apps/details?id=com.indurama.smart)) ([iOS](https://apps.apple.com/app/id1555720231))
+* Inmotika Hogar Inteligente/Inmotika Smart Home ([Android](https://play.google.com/store/apps/details?id=com.inmotika.smartlife)) ([iOS](https://apps.apple.com/app/id6743673203))
 * Intelligent Air ([Android](https://play.google.com/store/apps/details?id=com.aircondition.smart)) ([iOS](https://apps.apple.com/app/id1512905825))
 * Inventor Control ([Android](https://play.google.com/store/apps/details?id=com.Inventor.Control)) ([iOS](https://apps.apple.com/app/id1527983830))
 * IoTele ([Android](https://play.google.com/store/apps/details?id=com.iotele.telem)) ([iOS](https://apps.apple.com/app/id1591411387))
@@ -262,6 +265,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * OMIX ([Android](https://play.google.com/store/apps/details?id=com.omix.www)) ([iOS](https://apps.apple.com/app/id1632865144))
 * One Smart Home ([Android](https://play.google.com/store/apps/details?id=com.onesmarthome.nz)) ([iOS](https://apps.apple.com/app/id1638845834))
 * Onix ([Android](https://play.google.com/store/apps/details?id=com.onix.electronics)) ([iOS](https://apps.apple.com/app/id1570794996))
+* Onzzi ([Android](https://play.google.com/store/apps/details?id=com.onzzi.smart)) ([iOS](https://apps.apple.com/app/id6751501687))
 * Orange Smart Home ([Android](https://play.google.com/store/apps/details?id=com.orange.be.smarthome)) ([iOS](https://apps.apple.com/nl/app/id1526644568))
 * Orange Smart Life Jo ([Android](https://play.google.com/store/apps/details?id=com.orangeJo.Smart)) ([iOS](https://apps.apple.com/app/id1532105682))
 * Orient Smart ([Android](https://play.google.com/store/apps/details?id=com.orientelectric.smart)) ([iOS](https://apps.apple.com/app/id1444416754))
