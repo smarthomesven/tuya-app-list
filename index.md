@@ -342,6 +342,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Suntek Living ([Android](https://play.google.com/store/apps/details?id=com.suntek.smartlife)) ([iOS](https://apps.apple.com/app/id1638685648))
 * SYLVANIA Smart WiFi ([Android](https://play.google.com/store/apps/details?id=com.ledvance.smart.wifi))
 * SylSmart Home ([Android](https://play.google.com/store/apps/details?id=com.sylvania.sylsmarthome)) ([iOS](https://apps.apple.com/nl/app/id1544256125))
+* TADIRAN IOT ([Android](https://play.google.com/store/apps/details?id=com.tadiran.iot)) ([iOS](https://apps.apple.com/app/id1474053520))
 * TASCHIBRA SMART ([Android](https://play.google.com/store/apps/details?id=com.taschibra.smart)) ([iOS](https://apps.apple.com/app/id1541466867))
 * TCP Smart ([Android](https://play.google.com/store/apps/details?id=com.tcp.smart)) ([iOS](https://apps.apple.com/app/id1400601542))
 * TCP SmartStuff ([iOS](https://apps.apple.com/app/id1636465472))
