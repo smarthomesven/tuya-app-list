@@ -177,6 +177,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Go Smart ([Android](https://play.google.com/store/apps/details?id=com.cuco.smart)) ([iOS](https://apps.apple.com/app/id1425735484))
 * Goldair ([Android](https://play.google.com/store/apps/details?id=com.goldair.smart)) ([iOS](https://apps.apple.com/app/id1207190467))
 * Gologi ([Android](https://play.google.com/store/apps/details?id=com.app.gologi)) ([iOS](https://apps.apple.com/app/id1620895197))
+* Gomelong IoT ([Android](https://play.google.com/store/apps/details?id=com.mdlg.smart)) ([iOS](https://apps.apple.com/app/id6461416233))
 * Good Earth Lighting ([Android](https://play.google.com/store/apps/details?id=com.goodearth.smart)) ([iOS](https://apps.apple.com/app/id1474283861))
 * G.Smart 4.0 ([Android](https://play.google.com/store/apps/details?id=com.Smart.Garen)) ([iOS](https://apps.apple.com/app/id1626288093))
 * Graywind ([Android](https://play.google.com/store/apps/details?id=com.graywind.smarthome)) ([iOS](https://apps.apple.com/app/id1617227172))
