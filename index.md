@@ -167,6 +167,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * iAppliances ([Android](https://play.google.com/store/apps/details?id=shh.iot.iappliances)) ([iOS](https://apps.apple.com/app/id1542193179))
 * iBoto Smart ([Android](https://play.google.com/store/apps/details?id=com.iboto.smart)) ([iOS](https://apps.apple.com/app/id1524595220))
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
+* Illumismart ([iOS](https://apps.apple.com/app/id1459106470))
 * Indurama Living ([Android](https://play.google.com/store/apps/details?id=com.indurama.smart)) ([iOS](https://apps.apple.com/app/id1555720231))
 * Intelligent Air ([Android](https://play.google.com/store/apps/details?id=com.aircondition.smart)) ([iOS](https://apps.apple.com/app/id1512905825))
 * Inventor Control ([Android](https://play.google.com/store/apps/details?id=com.Inventor.Control)) ([iOS](https://apps.apple.com/app/id1527983830))
