@@ -210,6 +210,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Gasmate ([Android](https://play.google.com/store/apps/details?id=com.gasmate)) ([iOS](https://apps.apple.com/app/id6747654657))
 * Geevon Life ([iOS](https://apps.apple.com/app/id6444039828))
 * GeneralAire Humidification ([Android](https://play.google.com/store/apps/details?id=generalaires.app)) ([iOS](https://apps.apple.com/app/id6739025982))
+* Geonav Home ([Android](https://play.google.com/store/apps/details?id=com.hismile.smart)) ([iOS](https://apps.apple.com/app/id1484845339))
 * Germanica Smart Home ([Android](https://play.google.com/store/apps/details?id=com.germanica.smart)) ([iOS](https://apps.apple.com/app/id1577721920))
 * German Pool Smart Control ([Android](https://play.google.com/store/apps/details?id=com.germanpool.smartcontrol)) ([iOS](https://apps.apple.com/app/id1639333093))
 * GHome ([Android](https://play.google.com/store/apps/details?id=com.gosund.smart)) ([iOS](https://apps.apple.com/app/id1456965228))
