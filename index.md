@@ -107,6 +107,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Coel Online ([Android](https://play.google.com/store/apps/details?id=br.com.coel.coelwifi)) ([iOS](https://apps.apple.com/app/id1642570197))
 * coibeu smart ([Android](https://play.google.com/store/apps/details?id=com.coibeu.smart)) ([iOS](https://apps.apple.com/app/id6742166754))
 * Comfort Living ([Android](https://play.google.com/store/apps/details?id=com.comfortliving.comfortliving)) ([iOS](https://apps.apple.com/app/id1562263006))
+* Comfort Zone ([Android](https://play.google.com/store/apps/details?id=com.comfortzone.smart)) ([iOS](https://apps.apple.com/app/id1540694411))
 * Commel IoT ([Android](https://play.google.com/store/apps/details?id=com.commel.iot)) ([iOS](https://apps.apple.com/app/id1578868658))
 * COMPUTHERM Smart ([Android](https://play.google.com/store/apps/details?id=com.computherm.smart)) ([iOS](https://apps.apple.com/app/id6526463123))
 * Connect SmartHome ([Android](https://play.google.com/store/apps/details?id=com.connect.smarthome)) ([iOS](https://apps.apple.com/app/id1462850943))
