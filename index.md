@@ -610,6 +610,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Viro ([Android](https://play.google.com/store/apps/details?id=com.viro.app)) ([iOS](https://apps.apple.com/app/id1613458913))
 * VistaPro Smart ([Android](https://play.google.com/store/apps/details?id=com.vistasmart.smart)) ([iOS](https://apps.apple.com/app/id1502499886))
 * Vivitar Smart Security 2 ([Android](https://play.google.com/store/apps/details?id=com.vivitarsecurity.smart)) ([iOS](https://apps.apple.com/app/id1457922934))
+* VIZO Smart/弈碩智能 ([Android](https://play.google.com/store/apps/details?id=com.vizo.tuya)) ([iOS](https://apps.apple.com/app/id1378863350))
 * VoiceControl ([Android](https://play.google.com/store/apps/details?id=broan.fan.voice.control)) ([iOS](https://apps.apple.com/app/id1618250982))
 * VTi HomeMate+ ([Android](https://play.google.com/store/apps/details?id=com.jc.home)) ([iOS](https://apps.apple.com/app/id6443792051))
 * Walton Smart Appliances ([Android](https://play.google.com/store/apps/details?id=com.waltonsmartac)) ([iOS](https://apps.apple.com/app/id1489686245))
