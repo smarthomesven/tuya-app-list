@@ -249,6 +249,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Graywind ([Android](https://play.google.com/store/apps/details?id=com.graywind.smarthome)) ([iOS](https://apps.apple.com/app/id1617227172))
 * GTC Smart Stove ([Android](https://play.google.com/store/apps/details?id=com.EGI.stoves)) ([iOS](https://apps.apple.com/app/id6448798366))
 * GVS Smart Home ([Android](https://play.google.com/store/apps/details?id=com.GVS.SmartHome.android)) ([iOS](https://apps.apple.com/app/id1586453083))
+* GW Security ([Android](https://play.google.com/store/apps/details?id=com.gwsecurity.home)) ([iOS](https://apps.apple.com/app/id6741785868))
 * H smart ([Android](https://play.google.com/store/apps/details?id=com.Huowei.iot.A001)) ([iOS](https://apps.apple.com/app/id1543366156))
 * H-GO300 ([Android](https://play.google.com/store/apps/details?id=com.candy.hgo300)) ([iOS](https://apps.apple.com/app/id1503292806))
 * H-1 Pro Series ([Android](https://play.google.com/store/apps/details?id=com.h_1.pro)) ([iOS](https://apps.apple.com/app/id6467072829))
