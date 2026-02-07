@@ -31,6 +31,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Akai Energy Smart ([Android](https://play.google.com/store/apps/details?id=com.akaienergy.smart)) ([iOS](https://apps.apple.com/app/id1558027582))
 * Akai Home ([Android](https://play.google.com/store/apps/details?id=com.akai.home)) ([iOS](https://apps.apple.com/app/id1533632418))
 * Aldi Solar ([Android](https://play.google.com/store/apps/details?id=com.aldisolar1.smart)) ([iOS](https://apps.apple.com/app/id6449465545))
+* AlecoAir ([Android](https://play.google.com/store/apps/details?id=com.alecoair.smart)) ([iOS](https://apps.apple.com/app/id1494665323))
 * Alex Smart ([Android](https://play.google.com/store/apps/details?id=shop.alex.home)) ([iOS](https://apps.apple.com/app/id1664699796))
 * Algeco ([Android](https://play.google.com/store/apps/details?id=com.algeco.app)) ([iOS](https://apps.apple.com/app/id6550900643))
 * Al Hassan Smart ([Android](https://play.google.com/store/apps/details?id=com.alhassanllc.alhassansmart)) ([iOS](https://apps.apple.com/app/id6467309218))
