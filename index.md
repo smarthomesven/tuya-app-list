@@ -27,6 +27,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Airam SmartHome ([Android](https://play.google.com/store/apps/details?id=com.iot.airam)) ([iOS](https://apps.apple.com/app/id1547232010))
 * AITEK SMART ([Android](https://play.google.com/store/apps/details?id=com.aitekbrasil.smart)) ([iOS](https://apps.apple.com/app/id1564416200))
 * AIWA Smart Connect ([Android](https://play.google.com/store/apps/details?id=aiwa.sh)) ([iOS](https://apps.apple.com/app/id1631969869))
+* AJ EV Smart ([Android](https://play.google.com/store/apps/details?id=com.aj.ajevsmart)) ([iOS](https://apps.apple.com/app/id6744089714))
 * Akai Energy Smart ([Android](https://play.google.com/store/apps/details?id=com.akaienergy.smart)) ([iOS](https://apps.apple.com/app/id1558027582))
 * Akai Home ([Android](https://play.google.com/store/apps/details?id=com.akai.home)) ([iOS](https://apps.apple.com/app/id1533632418))
 * Aldi Solar ([Android](https://play.google.com/store/apps/details?id=com.aldisolar1.smart)) ([iOS](https://apps.apple.com/app/id6449465545))
