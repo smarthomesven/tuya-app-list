@@ -64,6 +64,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Baker Circle Greenwhich Smart ([Android](https://play.google.com/store/apps/details?id=com.tb.greenwichsmart)) ([iOS](https://apps.apple.com/app/id6737509492))
 * Bardi Smart Home ([Android](https://play.google.com/store/apps/details?id=com.bardi.smart.home)) ([iOS](https://apps.apple.com/app/id1463829491))
 * Barence Smart Home ([Android](https://play.google.com/store/apps/details?id=com.barence)) ([iOS](https://apps.apple.com/app/id1549146042))
+* BAZZ Smart Home ([Android](https://play.google.com/store/apps/details?id=com.bazz.wifi)) ([iOS](https://apps.apple.com/app/id1451113491))
 * Beafon Home ([Android](https://play.google.com/store/apps/details?id=beafon.app.smarthome)) ([iOS](https://apps.apple.com/app/id1523789426))
 * BEREST Smart ([iOS](https://apps.apple.com/app/id1638035285))
 * BeSmart-Living ([Android](https://play.google.com/store/apps/details?id=com.besmart.smart)) ([iOS](https://apps.apple.com/app/id1549122622))
