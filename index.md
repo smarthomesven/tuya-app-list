@@ -96,6 +96,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Caine Hill Smart ([Android](https://play.google.com/store/apps/details?id=com.tb.greenants)) ([iOS](https://apps.apple.com/us/app/id1659379126))
 * Calex smart ([Android](https://play.google.com/store/apps/details?id=com.calexsmart.smart)) ([iOS](https://apps.apple.com/app/id1471978691))
 * Camelion Smart Home ([Android](https://play.google.com/store/apps/details?id=com.est)) ([iOS](https://apps.apple.com/app/id1592688430))
+* Carrier Wi-Fi-CMI ([Android](https://play.google.com/store/apps/details?id=com.testing.appl)) ([iOS](https://apps.apple.com/app/id1400656960))
 * Carro Home ([Android](https://play.google.com/store/apps/details?id=com.carrohome.smartfan)) ([iOS](https://apps.apple.com/app/id1481436593))
 * casaIQ ([iOS](https://apps.apple.com/app/id6468032530))
 * CBI Home ([Android](https://play.google.com/store/apps/details?id=com.cbilv.cbihome)) ([iOS](https://apps.apple.com/app/id1497417402))
