@@ -178,6 +178,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ELG Connect ([Android](https://play.google.com/store/apps/details?id=connect.elg)) ([iOS](https://apps.apple.com/app/id1633008454))
 * Elgin Smart ([Android](https://play.google.com/store/apps/details?id=com.elgin.smart)) ([iOS](https://apps.apple.com/app/id1485365674))
 * ELK Smart ([Android](https://play.google.com/store/apps/details?id=com.elksmart.smart))
+* ELRO HomeSafe ([Android](https://play.google.com/store/apps/details?id=eu.elro.homesafe)) ([iOS](https://apps.apple.com/app/id1624234216))
 * e-luminate ([Android](https://play.google.com/store/apps/details?id=com.eluminate.app)) ([iOS](https://apps.apple.com/app/id6443871027))
 * EOS Smart Home ([Android](https://play.google.com/store/apps/details?id=eos.smart)) ([iOS](https://apps.apple.com/app/id6476454236))
 * Emax Smart Home ([Android](https://play.google.com/store/apps/details?id=com.Emax.Smart.Home)) ([iOS](https://apps.apple.com/app/id1542733655))
