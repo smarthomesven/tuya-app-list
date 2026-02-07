@@ -486,6 +486,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * pjrobot ([Android](https://play.google.com/store/apps/details?id=pj.smart)) ([iOS](https://apps.apple.com/app/id1635727214))
 * Plikc Smart ([Android](https://play.google.com/store/apps/details?id=com.nevewifi.plikc)) ([iOS](https://apps.apple.com/app/id1480343451))
 * POIEMA APP ([Android](https://play.google.com/store/apps/details?id=com.poiema.android)) ([iOS](https://apps.apple.com/app/id1562079478))
+* powerasia ([Android](https://play.google.com/store/apps/details?id=com.powerasiastore.www)) ([iOS](https://apps.apple.com/app/id6744015791))
 * POWERNITY ([Android](https://play.google.com/store/apps/details?id=com.powernity)) ([iOS](https://apps.apple.com/app/id6479609217))
 * PPsmart ([Android](https://play.google.com/store/apps/details?id=com.ppsmart)) ([iOS](https://apps.apple.com/app/id6474231116))
 * Premier Smart ([Android](https://play.google.com/store/apps/details?id=com.premier.smart)) ([iOS](https://apps.apple.com/app/id1470040042))
