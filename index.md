@@ -447,6 +447,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Nodis ([Android](https://play.google.com/store/apps/details?id=com.nodis.homes)) ([iOS](https://apps.apple.com/app/id1639344671))
 * Nodis Homes ([Android](https://play.google.com/store/apps/details?id=es.nodishomes.es)) ([iOS](https://apps.apple.com/app/id6743409032))
 * Nomadic Controls ([iOS](https://apps.apple.com/app/id6736670640))
+* NOMA Show lights ([Android](https://play.google.com/store/apps/details?id=com.newone.screenshow)) ([iOS](https://apps.apple.com/app/id6475399803))
 * NORWIE ([Android](https://play.google.com/store/apps/details?id=norwie.com)) ([iOS](https://apps.apple.com/app/id6504494116))
 * Nous Smart ([Android](https://play.google.com/store/apps/details?id=com.nous.smart)) ([iOS](https://apps.apple.com/app/id1455207708))
 * NovaDigital ([Android](https://play.google.com/store/apps/details?id=nova.digital.smart)) ([iOS](https://apps.apple.com/app/id1536590570))
