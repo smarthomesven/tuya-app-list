@@ -293,6 +293,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Homenergon ([Android](https://play.google.com/store/apps/details?id=homenergon.solar)) ([iOS](https://apps.apple.com/app/id6463801278))
 * Homynex ([Android](https://play.google.com/store/apps/details?id=com.smartsynclife.app)) ([iOS](https://apps.apple.com/app/id6547837002))
 * Honeywell Air Comfort ([Android](https://play.google.com/store/apps/details?id=com.jmateks.smart)) ([iOS](https://apps.apple.com/app/id1473235421))
+* Honeywell Light Show ([Android](https://play.google.com/store/apps/details?id=com.honeywell.showlights)) ([iOS](https://apps.apple.com/app/id1623771190))
 * Honeywell Smart Ceiling Fan ([Android](https://play.google.com/store/apps/details?id=com.honeywellfan.android)) ([iOS](https://apps.apple.com/app/id6444172744))
 * HonySmart ([Android](https://play.google.com/store/apps/details?id=com.honiture.robotvaccum)) ([iOS](https://apps.apple.com/app/id1525674300))
 * Horti Guru ([Android](https://play.google.com/store/apps/details?id=com.koray.hortiguru)) ([iOS](https://apps.apple.com/app/id1535223722))
