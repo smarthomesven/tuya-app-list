@@ -408,6 +408,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Meridian Lighting ([Android](https://play.google.com/store/apps/details?id=com.meridian.smart)) ([iOS](https://apps.apple.com/app/id1480398071))
 * mEzee ([Android](https://play.google.com/store/apps/details?id=com.prolink.mezee)) ([iOS](https://apps.apple.com/app/id1457286487))
 * MG Smart Link ([Android](https://play.google.com/store/apps/details?id=br.com.margirius.iot)) ([iOS](https://apps.apple.com/app/id6443504544))
+* Midea-Wi-Fi-CMI ([Android](https://play.google.com/store/apps/details?id=com.midea.cmi)) ([iOS](https://apps.apple.com/app/id1594392843))
 * Milre Smart ([Android](https://play.google.com/store/apps/details?id=com.milre.smart)) ([iOS](https://apps.apple.com/app/id1645342572))
 * Minimir Home ([Android](https://play.google.com/store/apps/details?id=com.testingapps.smart)) ([iOS](https://apps.apple.com/app/id1516560960))
 * Minoston ([Android](https://play.google.com/store/apps/details?id=com.evalogik.smart)) ([iOS](https://apps.apple.com/app/id1576308964))
