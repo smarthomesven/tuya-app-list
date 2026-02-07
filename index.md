@@ -402,6 +402,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * MEGA MOTION PRO ([Android](https://play.google.com/store/apps/details?id=com.coolfun.ytd)) ([iOS](https://apps.apple.com/app/id6448187259))
 * Mercanvee ([iOS](https://apps.apple.com/app/id6468941218))
 * Mercury Smart ([Android](https://play.google.com/store/apps/details?id=com.mercury.smart)) ([iOS](https://apps.apple.com/app/id1584993396))
+* Meridian Lighting ([Android](https://play.google.com/store/apps/details?id=com.meridian.smart)) ([iOS](https://apps.apple.com/app/id1480398071))
 * mEzee ([Android](https://play.google.com/store/apps/details?id=com.prolink.mezee)) ([iOS](https://apps.apple.com/app/id1457286487))
 * MG Smart Link ([Android](https://play.google.com/store/apps/details?id=br.com.margirius.iot)) ([iOS](https://apps.apple.com/app/id6443504544))
 * Milre Smart ([Android](https://play.google.com/store/apps/details?id=com.milre.smart)) ([iOS](https://apps.apple.com/app/id1645342572))
