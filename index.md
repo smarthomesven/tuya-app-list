@@ -419,6 +419,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Momax Smart ([Android](https://play.google.com/store/apps/details?id=com.momsmart.lamp)) ([iOS](https://apps.apple.com/app/id1474913815))
 * Monster Smart ([Android](https://play.google.com/store/apps/details?id=com.monster.smart)) ([iOS](https://apps.apple.com/app/id1447483342))
 * Monument grills ([Android](https://play.google.com/store/apps/details?id=com.mobunent)) ([iOS](https://apps.apple.com/app/id1641841948))
+* MOONRAYS ([Android](https://play.google.com/store/apps/details?id=com.moonrays.moonrays)) ([iOS](https://apps.apple.com/app/id1630878477))
 * Morphy Connect ([Android](https://play.google.com/store/apps/details?id=com.morphyrichards.smart.com)) ([iOS](https://apps.apple.com/app/id6466821059))
 * Motag ([Android](https://play.google.com/store/apps/details?id=com.fesco.motag)) ([iOS](https://apps.apple.com/app/id1640093160))
 * motor-app ([iOS](https://apps.apple.com/app/id1620500203))
