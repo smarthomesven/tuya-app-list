@@ -568,6 +568,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart FSL ([iOS](https://apps.apple.com/app/id1494085907))
 * SMART GDO ([Android](https://play.google.com/store/apps/details?id=com.gdo.smart)) ([iOS](https://apps.apple.com/app/id1481025674))
 * Smart Good Life ([iOS](https://apps.apple.com/app/id6479010782))
+* Smart Home A1 ([Android](https://play.google.com/store/apps/details?id=com.vipmobile.smart)) ([iOS](https://apps.apple.com/app/id1506874373))
 * Smart home life ([Android](https://play.google.com/store/apps/details?id=znkit.miffy.saas.siwei)) ([iOS](https://apps.apple.com/app/id6446197647))
 * Smart HT ([iOS](https://apps.apple.com/app/id1515898973))
 * SmartKnight ([Android](https://play.google.com/store/apps/details?id=com.knightsbridge.smart)) ([iOS](https://apps.apple.com/app/id1491003882))
