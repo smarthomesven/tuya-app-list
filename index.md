@@ -157,6 +157,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * DuoSmart ([Android](https://play.google.com/store/apps/details?id=com.duosmart.smart)) ([iOS](https://apps.apple.com/app/id1494085580))
 * Duotts ([Android](https://play.google.com/store/apps/details?id=com.bosco.cn)) ([iOS](https://apps.apple.com/app/id6475398278))
 * Duux Gen1 ([Android](https://play.google.com/store/apps/details?id=com.duux.control)) ([iOS](https://apps.apple.com/app/id1474620119))
+* Dyna-Glo Heat ([Android](https://play.google.com/store/apps/details?id=com.ghp.heaters)) ([iOS](https://apps.apple.com/app/id1636653829))
 * Dynasty Fireplaces ([iOS](https://apps.apple.com/app/id1498335722))
 * EAGLE SMART ([Android](https://play.google.com/store/apps/details?id=com.eaglesmart.eaglesmart)) ([iOS](https://apps.apple.com/app/id1404207264))
 * Earnest Living ([Android](https://play.google.com/store/apps/details?id=elegantsmarthomes.com)) ([iOS](https://apps.apple.com/app/id6463022179))
