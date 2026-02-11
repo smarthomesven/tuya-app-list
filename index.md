@@ -492,6 +492,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Petsuper ([Android](https://play.google.com/store/apps/details?id=com.petsuper.petsuper)) ([iOS](https://apps.apple.com/app/id6463713838))
 * Philipiak Home ([Android](https://play.google.com/store/apps/details?id=com.philipiak.pl))
 * Philips HomeRun Robot App ([Android](https://play.google.com/store/apps/details?id=com.philips.da.philipsrobot)) ([iOS](https://apps.apple.com/app/id1672039330))
+* Philips SmartSelect ([Android](https://play.google.com/store/apps/details?id=com.philips.smart)) ([iOS](https://apps.apple.com/app/id1590825492))
 * pjrobot ([Android](https://play.google.com/store/apps/details?id=pj.smart)) ([iOS](https://apps.apple.com/app/id1635727214))
 * Plikc Smart ([Android](https://play.google.com/store/apps/details?id=com.nevewifi.plikc)) ([iOS](https://apps.apple.com/app/id1480343451))
 * POIEMA APP ([Android](https://play.google.com/store/apps/details?id=com.poiema.android)) ([iOS](https://apps.apple.com/app/id1562079478))
