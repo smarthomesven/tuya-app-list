@@ -535,6 +535,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ROPVACNIC SMART ([Android](https://play.google.com/store/apps/details?id=com.ropvasmart.smart)) ([iOS](https://apps.apple.com/no/app/id6447345112))
 * Rowenta X-plorer Series 75&95 ([Android](https://play.google.com/store/apps/details?id=com.groupeseb.ext.xplorer)) ([iOS](https://apps.apple.com/nl/app/id1534708652))
 * Roximo IoT ([Android](https://play.google.com/store/apps/details?id=ru.roximo.iotseq)) ([iOS](https://apps.apple.com/app/id1562162385))
+* Ruihua ([Android](https://play.google.com/store/apps/details?id=com.duomei.smat)) ([iOS](https://apps.apple.com/app/id6471408353))
 * RZT Lifecloud ([iOS](https://apps.apple.com/app/id6463154385))
 * SAHN Smart ([Android](https://play.google.com/store/apps/details?id=com.sahn.smart)) ([iOS](https://apps.apple.com/app/id1510863340))
 * Sanse Smart ([Android](https://play.google.com/store/apps/details?id=com.sanse.smart)) ([iOS](https://apps.apple.com/app/id1550268348))
