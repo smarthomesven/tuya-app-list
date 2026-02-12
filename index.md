@@ -542,6 +542,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * SEA HI/Han River ([Android](https://play.google.com/store/apps/details?id=asmart.ad)) ([iOS](https://apps.apple.com/app/id6466364680))
 * Securaki ([Android](https://play.google.com/store/apps/details?id=com.securaco.securaki)) ([iOS](https://apps.apple.com/app/id6469634552))
 * Secure Smart ([Android](https://play.google.com/store/apps/details?id=com.securesmart.app)) ([iOS](https://apps.apple.com/app/id6748728173))
+* Securitysystem.Asia ([Android](https://play.google.com/store/apps/details?id=securitysystem.Asia)) ([iOS](https://apps.apple.com/app/id1642534912))
 * SEDEA Home ([Android](https://play.google.com/store/apps/details?id=com.sedea.sedeahome)) ([iOS](https://apps.apple.com/app/id1517566519))
 * Seg Home ([Android](https://play.google.com/store/apps/details?id=com.segbr.smart)) ([iOS](https://apps.apple.com/app/id1585185496))
 * Seg.Smart 4.0 ([Android](https://play.google.com/store/apps/details?id=com.segsmart.smart)) ([iOS](https://apps.apple.com/app/id1632938193))
