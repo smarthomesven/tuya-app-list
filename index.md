@@ -593,6 +593,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * smartspace - home automation ([Android](https://play.google.com/store/apps/details?id=com.net.thesmartspace.android)) ([iOS](https://apps.apple.com/app/id1587583724))
 * Smart stove ([Android](https://play.google.com/store/apps/details?id=com.hanks.smartstove)) ([iOS](https://apps.apple.com/app/id1233031315))
 * Smart SWE ([iOS](https://apps.apple.com/app/id1462513079))
+* Computime Smart Thermostat ([Android](https://play.google.com/store/apps/details?id=computime.smart.thermostat.home)) ([iOS](https://apps.apple.com/app/id1609714934))
 * SmartAI ([Android](https://play.google.com/store/apps/details?id=com.smartai.smartai)) ([iOS](https://apps.apple.com/app/id1487052444))
 * SmartFog ([iOS](https://apps.apple.com/app/id6450040471))
 * SmartGrill YM ([iOS](https://apps.apple.com/app/id1422210247))
