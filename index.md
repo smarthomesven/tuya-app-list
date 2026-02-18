@@ -480,7 +480,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Onforu Home ([Android](https://play.google.com/store/apps/details?id=www.youliang)) ([iOS](https://apps.apple.com/app/id1604566338))
 * Onix ([Android](https://play.google.com/store/apps/details?id=com.onix.electronics)) ([iOS](https://apps.apple.com/app/id1570794996))
 * Onzzi ([Android](https://play.google.com/store/apps/details?id=com.onzzi.smart)) ([iOS](https://apps.apple.com/app/id6751501687))
-* Orange Smart Home ([Android](https://play.google.com/store/apps/details?id=com.orange.be.smarthome)) ([iOS](https://apps.apple.com/nl/app/id1526644568))
+* Orange Smart Home
 * Orange Smart Life Jo ([Android](https://play.google.com/store/apps/details?id=com.orangeJo.Smart)) ([iOS](https://apps.apple.com/app/id1532105682))
 * Orient Smart ([Android](https://play.google.com/store/apps/details?id=com.orientelectric.smart)) ([iOS](https://apps.apple.com/app/id1444416754))
 * OzoLife ([Android](https://play.google.com/store/apps/details?id=com.ozonesecutech.ozolife)) ([iOS](https://apps.apple.com/app/id1566286758))
