@@ -602,6 +602,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart Quba ([Android](https://play.google.com/store/apps/details?id=com.smartquba.qubagroup)) ([iOS](https://apps.apple.com/app/id1603817424))
 * SMRTLite ([Android](https://play.google.com/store/apps/details?id=com.smrtlite.com)) ([iOS](https://apps.apple.com/app/id1457941796))
 * Smartmatic 2.0 ([Android](https://play.google.com/store/apps/details?id=com.de.nobile.smartmatic)) ([iOS](https://apps.apple.com/app/id1608875813))
+* Smart Synerji ([Android](https://play.google.com/store/apps/details?id=com.synerjij.smartapp))
 * Smartzilla ([iOS](https://apps.apple.com/app/id1513342142))
 * Smonet Home ([iOS](https://apps.apple.com/app/id1469180139))
 * Solar Aircon ([Android](https://play.google.com/store/apps/details?id=com.solar.airconditioner)) ([iOS](https://apps.apple.com/app/id1503114509))
