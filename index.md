@@ -605,6 +605,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart Synerji ([Android](https://play.google.com/store/apps/details?id=com.synerjij.smartapp))
 * Smartzilla ([iOS](https://apps.apple.com/app/id1513342142))
 * Smonet Home ([iOS](https://apps.apple.com/app/id1469180139))
+* Solaire WiFi IQ ([Android](https://play.google.com/store/apps/details?id=com.solaire.wifi)) ([iOS](https://apps.apple.com/app/id1455831745))
 * Solar Aircon ([Android](https://play.google.com/store/apps/details?id=com.solar.airconditioner)) ([iOS](https://apps.apple.com/app/id1503114509))
 * Spectrum SMART ([Android](https://play.google.com/store/apps/details?id=com.spectrum.smart)) ([iOS](https://apps.apple.com/app/id1501281003))
 * Spektrum+ Smart Lighting ([Android](https://play.google.com/store/apps/details?id=com.americanlighting.spektrum)) ([iOS](https://apps.apple.com/app/id1508096350))
