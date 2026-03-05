@@ -43,6 +43,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ALUTECH Smart ([Android](https://play.google.com/store/apps/details?id=com.alt.app)) ([iOS](https://apps.apple.com/app/id1583721143))
 * Amica Smart ([Android](https://play.google.com/store/apps/details?id=com.amica.smart)) ([iOS](https://apps.apple.com/app/id6742377459))
 * Antik SmartHome ([Android](https://play.google.com/store/apps/details?id=sk.antik.home)) ([iOS](https://apps.apple.com/app/id1584113138))
+* ANTELA ([Android](https://play.google.com/store/apps/details?id=com.antela.smart)) ([iOS](https://apps.apple.com/app/id1662529736))
 * Aqualin ([iOS](https://apps.apple.com/app/id6445850173))
 * Aquatic Vita ([iOS](https://apps.apple.com/app/aquatic-vita/id1596680188))
 * Archos Hello Connect
