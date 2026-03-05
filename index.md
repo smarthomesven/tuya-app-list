@@ -333,6 +333,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * intflo living ([iOS](https://apps.apple.com/app/id6444284880))
 * Inventor Control ([Android](https://play.google.com/store/apps/details?id=com.Inventor.Control)) ([iOS](https://apps.apple.com/app/id1527983830))
 * Invent Smart ([Android](https://play.google.com/store/apps/details?id=uk.invent.smart1234)) ([iOS](https://apps.apple.com/app/id1570765155))
+* Inverter Life ([Android](https://play.google.com/store/apps/details?id=com.InverterLife)) ([iOS](https://apps.apple.com/app/id1447785325))
 * IoTele ([Android](https://play.google.com/store/apps/details?id=com.iotele.telem)) ([iOS](https://apps.apple.com/app/id1591411387))
 * IRIS SmartLF ([Android](https://play.google.com/store/apps/details?id=com.irissmart.mian)) ([iOS](https://apps.apple.com/app/id1435305248))
 * iSmart Home ([Android](https://play.google.com/store/apps/details?id=com.app.ismart9)) ([iOS](https://apps.apple.com/app/id1567752409))
