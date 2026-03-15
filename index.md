@@ -595,6 +595,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart home life ([Android](https://play.google.com/store/apps/details?id=znkit.miffy.saas.siwei)) ([iOS](https://apps.apple.com/app/id6446197647))
 * Smart HT ([iOS](https://apps.apple.com/app/id1515898973))
 * SmartKnight ([Android](https://play.google.com/store/apps/details?id=com.knightsbridge.smart)) ([iOS](https://apps.apple.com/app/id1491003882))
+* Smart Laffey ([iOS](https://apps.apple.com/app/id6748891951))
 * Smart Life ([Android](https://play.google.com/store/apps/details?id=com.tuya.smartlife)) ([iOS](https://apps.apple.com/app/id1115101477))
 * Smart Life Britania ([Android](https://play.google.com/store/apps/details?id=smart.britania.com)) ([iOS](https://apps.apple.com/app/id1539328554))
 * Smart Life Philco ([Android](https://play.google.com/store/apps/details?id=com.Philco.Arcon)) ([iOS](https://apps.apple.com/app/id1530131545))
