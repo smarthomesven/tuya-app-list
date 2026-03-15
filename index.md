@@ -304,6 +304,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Hoftronic Smart ([Android](https://play.google.com/store/apps/details?id=com.hoftronic.homeylux)) ([iOS](https://apps.apple.com/app/id1490994804))
 * HOBIK ([Android](https://play.google.com/store/apps/details?id=com.hobik.ytd)) ([iOS](https://apps.apple.com/app/id6469583495))
 * Holmes Fans ([Android](https://play.google.com/store/apps/details?id=com.holmesfan.app)) ([iOS](https://apps.apple.com/app/id1598588823))
+* Homarrogsys ([Android](https://play.google.com/store/apps/details?id=com.nanshui.rain)) ([iOS](https://apps.apple.com/app/id1611108158))
 * Hombli ([Android](https://play.google.com/store/apps/details?id=com.hombli.smart)) ([iOS](https://apps.apple.com/app/id1476038766))
 * HOMEAUTO/Home@uto ([Android](https://play.google.com/store/apps/details?id=com.homeauto.smart)) ([iOS](https://apps.apple.com/app/id1482776107))
 * HomeBud ([Android](https://play.google.com/store/apps/details?id=com.homebud.aunz)) ([iOS](https://apps.apple.com/app/id6450938633))
