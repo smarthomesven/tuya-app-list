@@ -299,6 +299,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Homes Automate ([Android](https://play.google.com/store/apps/details?id=com.homesautomate.android)) ([iOS](https://apps.apple.com/app/id1542592360))
 * Home Stay ([Android](https://play.google.com/store/apps/details?id=com.rayru.www)) ([iOS](https://apps.apple.com/app/id1525345823))
 * Home Sync ([Android](https://play.google.com/store/apps/details?id=home.sync)) ([iOS](https://apps.apple.com/app/id6477182579))
+* Home Kalley ([Android](https://play.google.com/store/apps/details?id=com.kalley.smart)) ([iOS](https://apps.apple.com/app/id1428926693))
 * HomeMate Smart ([Android](https://play.google.com/store/apps/details?id=homemate.smart)) ([iOS](https://apps.apple.com/app/id1551789380))
 * Homenergon ([Android](https://play.google.com/store/apps/details?id=homenergon.solar)) ([iOS](https://apps.apple.com/app/id6463801278))
 * Homynex ([Android](https://play.google.com/store/apps/details?id=com.smartsynclife.app)) ([iOS](https://apps.apple.com/app/id6547837002))
