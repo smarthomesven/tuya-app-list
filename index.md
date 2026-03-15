@@ -590,6 +590,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Smart BBS ([iOS](https://apps.apple.com/app/id1515415146))
 * Smart Citizens/Smart Citizens SAAS ([Android](https://play.google.com/store/apps/details?id=com.smartcitizens.saas)) ([iOS](https://apps.apple.com/app/id1613122080))
 * Smart Dorcas ([Android](https://play.google.com/store/apps/details?id=com.smart.dorcas)) ([iOS](https://apps.apple.com/app/id1564872498))
+* SmartE+ ([Android](https://play.google.com/store/apps/details?id=com.enerlution.industry)) ([iOS](https://apps.apple.com/app/id6670291403))
 * Smart FSL ([iOS](https://apps.apple.com/app/id1494085907))
 * SMART GDO ([Android](https://play.google.com/store/apps/details?id=com.gdo.smart)) ([iOS](https://apps.apple.com/app/id1481025674))
 * Smart Good Life ([iOS](https://apps.apple.com/app/id6479010782))
