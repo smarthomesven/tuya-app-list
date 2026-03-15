@@ -267,6 +267,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Good Earth Lighting ([Android](https://play.google.com/store/apps/details?id=com.goodearth.smart)) ([iOS](https://apps.apple.com/app/id1474283861))
 * G.Smart 4.0 ([Android](https://play.google.com/store/apps/details?id=com.Smart.Garen)) ([iOS](https://apps.apple.com/app/id1626288093))
 * Graywind ([Android](https://play.google.com/store/apps/details?id=com.graywind.smarthome)) ([iOS](https://apps.apple.com/app/id1617227172))
+* GRIT ([iOS](https://apps.apple.com/app/id1545089495))
 * GTC Smart Stove ([Android](https://play.google.com/store/apps/details?id=com.EGI.stoves)) ([iOS](https://apps.apple.com/app/id6448798366))
 * GVS Smart Home ([Android](https://play.google.com/store/apps/details?id=com.GVS.SmartHome.android)) ([iOS](https://apps.apple.com/app/id1586453083))
 * GW Security ([Android](https://play.google.com/store/apps/details?id=com.gwsecurity.home)) ([iOS](https://apps.apple.com/app/id6741785868))
