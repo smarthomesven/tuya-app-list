@@ -229,6 +229,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * First home ([Android](https://play.google.com/store/apps/details?id=com.frs.ome)) ([iOS](https://apps.apple.com/app/id6753043342))
 * Fly Fans ([Android](https://play.google.com/store/apps/details?id=com.flyfans.v002)) ([iOS](https://apps.apple.com/app/id1562985727))
 * FNKvision ([Android](https://play.google.com/store/apps/details?id=com.fnk.fnk)) ([iOS](https://apps.apple.com/app/id1578244046))
+* Flamingo Smart ([Android](https://play.google.com/store/apps/details?id=be.flamingo.smartapp)) ([iOS](https://apps.apple.com/app/id6740691422))
 * FlinQ ([Android](https://play.google.com/store/apps/details?id=app.flinqcommerce.nl)) ([iOS](https://apps.apple.com/app/id1664413721))
 * FLUIDRA NEXUS ([Android](https://play.google.com/store/apps/details?id=veico.nexux22)) ([iOS](https://apps.apple.com/us/app/id1642998596))
 * fmart smart ([Android](https://play.google.com/store/apps/details?id=com.fmart.smart)) ([iOS](https://apps.apple.com/app/id1191681043))
