@@ -412,6 +412,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * LSC Smart Connect ([Android](https://play.google.com/store/apps/details?id=com.lscsmartconnection.smart)) ([iOS](https://apps.apple.com/app/id1461044590))
 * LUUMR ([Android](https://play.google.com/store/apps/details?id=luumr.app)) ([iOS](https://apps.apple.com/app/id6470302637))
 * LUXUS ONE ([Android](https://play.google.com/store/apps/details?id=luxusone.sg)) ([iOS](https://apps.apple.com/app/id6751254563))
+* Lynddoa ([iOS](https://apps.apple.com/app/id6463614227))
 * MAGNUM Heat ([Android](https://play.google.com/store/apps/details?id=com.magnumheat.smart)) ([iOS](https://apps.apple.com/app/id1488701284))
 * Maginon Smart Home ([Android](https://play.google.com/store/apps/details?id=com.maginon.smartlife1))
 * Marcel Smart ([Android](https://play.google.com/store/apps/details?id=marcelbd.com)) ([iOS](https://apps.apple.com/app/id1619296517))
