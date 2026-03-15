@@ -436,6 +436,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * MLAB SMART ([Android](https://play.google.com/store/apps/details?id=com.mlab.smart)) ([iOS](https://apps.apple.com/app/id1611563274))
 * MOBI Plus ([iOS](https://apps.apple.com/app/id1570409506))
 * MOBI Smart ([Android](https://play.google.com/store/apps/details?id=com.mobi.smart)) ([iOS](https://apps.apple.com/app/id1494085905))
+* MODAN ([Android](https://play.google.com/store/apps/details?id=com.modan.smarthome)) ([iOS](https://apps.apple.com/app/id1454789361))
 * MODENA Seamless ([Android](https://play.google.com/store/apps/details?id=com.modenasmart.app)) ([iOS](https://apps.apple.com/app/id1553012954))
 * Modern Flames ([Android](https://play.google.com/store/apps/details?id=com.modernflames.sunsetseries)) ([iOS](https://apps.apple.com/app/id1444489867))
 * MOES ([Android](https://play.google.com/store/apps/details?id=com.moes.wz)) ([iOS](https://apps.apple.com/app/id1445259938))
