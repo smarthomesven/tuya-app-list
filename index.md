@@ -692,6 +692,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Tzumi Smart Home ([Android](https://play.google.com/store/apps/details?id=com.tzumi.smarthome)) ([iOS](https://apps.apple.com/app/id1521857069))
 * U-Smart ([Android](https://play.google.com/store/apps/details?id=cz.umax.usmart)) ([iOS](https://apps.apple.com/app/id1444766879))
 * UA Smart ([Android](https://play.google.com/store/apps/details?id=smart.unitedappliances)) ([iOS](https://apps.apple.com/app/id1670984523))
+* UE Smart ([iOS](https://apps.apple.com/app/id1626473724))
 * Ultrabrite ([Android](https://play.google.com/store/apps/details?id=com.ultrabrite.smart)) ([iOS](https://apps.apple.com/app/id1510600328))
 * UltraPro ([Android](https://play.google.com/store/apps/details?id=com.UltraPro.smart)) ([iOS](https://apps.apple.com/app/id1532834846))
 * Unicorn IoT ([Android](https://play.google.com/store/apps/details?id=com.seojinapp.iot)) ([iOS](https://apps.apple.com/app/id1579512368))
