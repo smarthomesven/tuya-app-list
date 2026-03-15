@@ -249,6 +249,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * G-Light ([iOS](https://apps.apple.com/app/id1484748445))
 * G-Light Smart ([Android](https://play.google.com/store/apps/details?id=com.smart.glight)) ([iOS](https://apps.apple.com/app/id1573519590))
 * Galaxy Smart ([Android](https://play.google.com/store/apps/details?id=com.galaxylife))
+* Garden Smarter ([iOS](https://apps.apple.com/app/id1631800567))
 * Gasmate ([Android](https://play.google.com/store/apps/details?id=com.gasmate)) ([iOS](https://apps.apple.com/app/id6747654657))
 * Geevon Life ([iOS](https://apps.apple.com/app/id6444039828))
 * GeneralAire Humidification ([Android](https://play.google.com/store/apps/details?id=generalaires.app)) ([iOS](https://apps.apple.com/app/id6739025982))
