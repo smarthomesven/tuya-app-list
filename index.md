@@ -763,5 +763,6 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * 多美安智家 ([iOS](https://apps.apple.com/app/id6450698250))
 * 达钶智能 ([iOS](https://apps.apple.com/app/id1535737164))
 * 橙色云生态链 ([iOS](https://apps.apple.com/app/id1641085315))
+* 京造出行 ([iOS](https://apps.apple.com/app/id6467847048))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
