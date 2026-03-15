@@ -757,5 +757,6 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * 绿创智家 智慧家居 ([iOS](https://apps.apple.com/app/id6575366722))
 * 世微智慧生活 ([iOS](https://apps.apple.com/app/id6443786918))
 * 易庐全屋智能 ([iOS](https://apps.apple.com/app/id1634165870))
+* 超想全屋智能 ([iOS](https://apps.apple.com/app/id6463372977))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
