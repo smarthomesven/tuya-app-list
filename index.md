@@ -155,6 +155,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * DMB Home ([iOS](https://apps.apple.com/app/id6470797207))
 * Dnake Air ([iOS](https://apps.apple.com/app/id6450326495))
 * Dnake Smart Life ([Android](https://play.google.com/store/apps/details?id=com.dnake.swift.smart)) ([iOS](https://apps.apple.com/app/id6444816069))
+* DOFA SMART ([Android](https://play.google.com/store/apps/details?id=dofa.smartlife.v1)) ([iOS](https://apps.apple.com/app/id6449660215))
 * domolink/DOMO CONNECT ([Android](https://play.google.com/store/apps/details?id=domo.link)) ([iOS](https://apps.apple.com/app/id6479523471))
 * DOMUM X ([Android](https://play.google.com/store/apps/details?id=com.domumx.smart)) ([iOS](https://apps.apple.com/app/id6465686210))
 * Dorset Smart Life ([Android](https://play.google.com/store/apps/details?id=com.dorset.smartlife)) ([iOS](https://apps.apple.com/app/id1633083780))
