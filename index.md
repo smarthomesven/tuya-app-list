@@ -689,6 +689,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * VIZO Smart/弈碩智能 ([Android](https://play.google.com/store/apps/details?id=com.vizo.tuya)) ([iOS](https://apps.apple.com/app/id1378863350))
 * VoiceControl ([Android](https://play.google.com/store/apps/details?id=broan.fan.voice.control)) ([iOS](https://apps.apple.com/app/id1618250982))
 * VOLPRO ([Android](https://play.google.com/store/apps/details?id=com.youfsvolpro.android)) ([iOS](https://apps.apple.com/app/id6748973680))
+* VTA+ ([Android](https://play.google.com/store/apps/details?id=com.smart.vta)) ([iOS](https://apps.apple.com/app/id1440690267))
 * VTi HomeMate+ ([Android](https://play.google.com/store/apps/details?id=com.jc.home)) ([iOS](https://apps.apple.com/app/id6443792051))
 * Walton Smart Appliances ([Android](https://play.google.com/store/apps/details?id=com.waltonsmartac)) ([iOS](https://apps.apple.com/app/id1489686245))
 * WAP Connect ([Android](https://play.google.com/store/apps/details?id=com.WAP.Connect)) ([iOS](https://apps.apple.com/app/id1548950833))
