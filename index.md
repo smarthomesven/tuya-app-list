@@ -752,5 +752,6 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Zeswin - Smart Living ([Android](https://play.google.com/store/apps/details?id=com.zeswin.smart)) ([iOS](https://apps.apple.com/app/id6751108513))
 * zhuiguangmotor ([Android](https://play.google.com/store/apps/details?id=com.zhuiguang.motor)) ([iOS](https://apps.apple.com/app/id6742768967))
 * ZSmart ([Android](https://play.google.com/store/apps/details?id=com.zkteco.zsmart)) ([iOS](https://apps.apple.com/app/id1484043889))
+* 绿创智家 智慧家居 ([iOS](https://apps.apple.com/app/id6575366722))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
