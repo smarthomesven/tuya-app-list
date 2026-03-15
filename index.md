@@ -205,6 +205,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ENGO Smart ([Android](https://play.google.com/store/apps/details?id=com.engo.smartlife)) ([iOS](https://apps.apple.com/app/id1606693444))
 * Envision Connect ([Android](https://play.google.com/store/apps/details?id=com.envision.connect)) ([iOS](https://apps.apple.com/app/id6464008413))
 * EpcomSmart Home ([Android](https://play.google.com/store/apps/details?id=com.epcom.com)) ([iOS](https://apps.apple.com/app/id6738323477))
+* E-Room Smart ([iOS](https://apps.apple.com/app/id1502007585))
 * essentials Smart Home ([Android](https://play.google.com/store/apps/details?id=com.wesmartify.app)) ([iOS](https://apps.apple.com/app/id1475241319))
 * ETA Smart ([Android](https://play.google.com/store/apps/details?id=com.ETArobots.smart)) ([iOS](https://apps.apple.com/app/id1525697448))
 * etife ([Android](https://play.google.com/store/apps/details?id=com.etife.android)) ([iOS](https://apps.apple.com/app/id1589381555))
