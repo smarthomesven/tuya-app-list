@@ -217,6 +217,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * EZIclean ([Android](https://play.google.com/store/apps/details?id=com.eziclean)) ([iOS](https://apps.apple.com/app/id1578259633))
 * Ezylife ([Android](https://play.google.com/store/apps/details?id=com.ezy.life)) ([iOS](https://apps.apple.com/app/id6751316476))
 * Fairland Smart Pool ([Android](https://play.google.com/store/apps/details?id=com.fairland.smart)) ([iOS](https://apps.apple.com/app/id1445123226))
+* Fakro Smart ([Android](https://play.google.com/store/apps/details?id=smart.fakro.com)) ([iOS](https://apps.apple.com/app/id6444656801))
 * FAMMIXHOME/FAMMIX智慧管家 ([Android](https://play.google.com/store/apps/details?id=com.vichys.tw)) ([iOS](https://apps.apple.com/app/id1562621845))
 * Fancyleds ([Android](https://play.google.com/store/apps/details?id=com.fancyleds.app)) ([iOS](https://apps.apple.com/app/id1626707976))
 * Fansio ([Android](https://play.google.com/store/apps/details?id=com.fansio.smart)) ([iOS](https://apps.apple.com/app/id1524898814))
