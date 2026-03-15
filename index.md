@@ -238,7 +238,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * fmart smart ([Android](https://play.google.com/store/apps/details?id=com.fmart.smart)) ([iOS](https://apps.apple.com/app/id1191681043))
 * Fonri WiFi ([Android](https://play.google.com/store/apps/details?id=com.fonri.wifi)) ([iOS](https://apps.apple.com/app/id1562996043))
 * Forest Connect ([Android](https://play.google.com/store/apps/details?id=com.forestconnect.smartcontrol)) ([iOS](https://apps.apple.com/app/id1517003555))
-* Foria Home ([iOS](https://apps.apple.com/app/id1634904522))
+* FORIA Home ([iOS](https://apps.apple.com/app/id1634904522))
 * Fortress Smart ([Android](https://play.google.com/store/apps/details?id=com.fortress.smarthome)) ([iOS](https://apps.apple.com/app/id6746776909))
 * Fox Smart ([Android](https://play.google.com/store/apps/details?id=fox.smart)) ([iOS](https://apps.apple.com/app/id6467010009))
 * Fratecno ([Android](https://play.google.com/store/apps/details?id=fratek102.airbon.smart)) ([iOS](https://apps.apple.com/app/id1644316817))
