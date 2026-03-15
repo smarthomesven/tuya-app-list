@@ -294,7 +294,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * HG Robots ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg4)) ([iOS](https://apps.apple.com/app/id6466626489))
 * Hihome Smart ([Android](https://play.google.com/store/apps/details?id=com.hihome.smart)) ([iOS](https://apps.apple.com/app/id1450496231))
 * HIKOBIKE ([Android](https://play.google.com/store/apps/details?id=hik.onz)) ([iOS](https://apps.apple.com/app/id6746408570))
-* Hinen ([Android](https://play.google.com/store/apps/details?id=com.solism.android_01)) ([iOS](https://apps.apple.com/app/id6446358921))
+* HINEN ([Android](https://play.google.com/store/apps/details?id=com.solism.android_01)) ([iOS](https://apps.apple.com/app/id6446358921))
 * Hinkley ([Android](https://play.google.com/store/apps/details?id=hinkley.android)) ([iOS](https://apps.apple.com/app/id1645555784))
 * HIPER IOT ([Android](https://play.google.com/store/apps/details?id=com.hiper.smartiot)) ([iOS](https://apps.apple.com/app/id1455337509))
 * Histar Smart Home ([Android](https://play.google.com/store/apps/details?id=com.fullmoonid.smart)) ([iOS](https://apps.apple.com/app/id1576356886))
