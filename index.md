@@ -520,6 +520,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * POIEMA APP ([Android](https://play.google.com/store/apps/details?id=com.poiema.android)) ([iOS](https://apps.apple.com/app/id1562079478))
 * powerasia ([Android](https://play.google.com/store/apps/details?id=com.powerasiastore.www)) ([iOS](https://apps.apple.com/app/id6744015791))
 * POWERNITY ([Android](https://play.google.com/store/apps/details?id=com.powernity)) ([iOS](https://apps.apple.com/app/id6479609217))
+* PowerStation Manager/Power Station Manager ([Android](https://play.google.com/store/apps/details?id=dj.dps.app)) ([iOS](https://apps.apple.com/app/id6478524243))
 * PPsmart ([Android](https://play.google.com/store/apps/details?id=com.ppsmart)) ([iOS](https://apps.apple.com/app/id6474231116))
 * Premier Smart ([Android](https://play.google.com/store/apps/details?id=com.premier.smart)) ([iOS](https://apps.apple.com/app/id1470040042))
 * Primebras Home ([Android](https://play.google.com/store/apps/details?id=com.primebras.smart)) ([iOS](https://apps.apple.com/app/id1581811190))
