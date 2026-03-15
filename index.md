@@ -224,6 +224,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Fansio ([Android](https://play.google.com/store/apps/details?id=com.fansio.smart)) ([iOS](https://apps.apple.com/app/id1524898814))
 * Feit Electric ([Android](https://play.google.com/store/apps/details?id=com.feit.smart)) ([iOS](https://apps.apple.com/app/id1333066476))
 * Feifanjia Smart ([iOS](https://apps.apple.com/app/id6450038510))
+* Fetaya Smart ([Android](https://play.google.com/store/apps/details?id=com.futaya.smartlife2.android)) ([iOS](https://apps.apple.com/app/id1521830457))
 * FIN Smart ([Android](https://play.google.com/store/apps/details?id=com.finsmartiot.app)) ([iOS](https://apps.apple.com/app/id1532863577))
 * First home ([Android](https://play.google.com/store/apps/details?id=com.frs.ome)) ([iOS](https://apps.apple.com/app/id6753043342))
 * Fly Fans ([Android](https://play.google.com/store/apps/details?id=com.flyfans.v002)) ([iOS](https://apps.apple.com/app/id1562985727))
