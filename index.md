@@ -78,6 +78,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Baybot ([Android](https://play.google.com/store/apps/details?id=baybot.app)) ([iOS](https://apps.apple.com/app/id1607453692))
 * Bgnius ([Android](https://play.google.com/store/apps/details?id=com.bgenius.abc)) ([iOS](https://apps.apple.com/app/id1568317668))
 * Bharat Switch ([iOS](https://apps.apple.com/app/id1627026890))
+* bikniks ([iOS](https://apps.apple.com/app/id6450449183))
 * Bimar-Live Smart ([Android](https://play.google.com/store/apps/details?id=com.ap.bmr))
 * BIOTA Smart Home ([Android](https://play.google.com/store/apps/details?id=com.biota.biotaapp)) ([iOS](https://apps.apple.com/app/id6463856486))
 * BIVALE Smart Life ([iOS](https://apps.apple.com/app/id6504385409))
