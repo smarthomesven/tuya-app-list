@@ -668,6 +668,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * TASCHIBRA SMART ([Android](https://play.google.com/store/apps/details?id=com.taschibra.smart)) ([iOS](https://apps.apple.com/app/id1541466867))
 * TCP Smart ([Android](https://play.google.com/store/apps/details?id=com.tcp.smart)) ([iOS](https://apps.apple.com/app/id1400601542))
 * TCP SmartStuff ([iOS](https://apps.apple.com/app/id1636465472))
+* Tecbot Home ([Android](https://play.google.com/store/apps/details?id=com.tecbothome20210121)) ([iOS](https://apps.apple.com/app/id1562811348))
 * TECNOELETROS ([Android](https://play.google.com/store/apps/details?id=com.tecnoeletros)) ([iOS](https://apps.apple.com/app/id1630783445))
 * TECNO Smart Home ([Android](https://play.google.com/store/apps/details?id=com.smartnovolife)) ([iOS](https://apps.apple.com/app/id1591860728))
 * Tecnolite Connect ([Android](https://play.google.com/store/apps/details?id=com.tecno.smart)) ([iOS](https://apps.apple.com/app/id1489981663))
