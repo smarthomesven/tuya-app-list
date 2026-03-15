@@ -234,6 +234,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Fortress Smart ([Android](https://play.google.com/store/apps/details?id=com.fortress.smarthome)) ([iOS](https://apps.apple.com/app/id6746776909))
 * Fox Smart ([Android](https://play.google.com/store/apps/details?id=fox.smart)) ([iOS](https://apps.apple.com/app/id6467010009))
 * Fratecno ([Android](https://play.google.com/store/apps/details?id=fratek102.airbon.smart)) ([iOS](https://apps.apple.com/app/id1644316817))
+* Fundi Smart Home ([Android](https://play.google.com/store/apps/details?id=com.fundi.smarthome)) ([iOS](https://apps.apple.com/app/id6754311067))
 * FUTROM ([Android](https://play.google.com/store/apps/details?id=com.futrom.com)) ([iOS](https://apps.apple.com/app/id1625694754))
 * G-Life Smart ([Android](https://play.google.com/store/apps/details?id=com.generallife.tr)) ([iOS](https://apps.apple.com/app/id6443701064))
 * G-Light ([iOS](https://apps.apple.com/app/id1484748445))
