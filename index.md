@@ -426,6 +426,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Mirabella Genio ([Android](https://play.google.com/store/apps/details?id=com.mirabella.genio)) ([iOS](https://apps.apple.com/app/id1433852322))
 * Mirati Home ([Android](https://play.google.com/store/apps/details?id=com.homei.appliances)) ([iOS](https://apps.apple.com/app/id1493479149))
 * Mistral Connected ([Android](https://play.google.com/store/apps/details?id=com.mistral.com.au)) ([iOS](https://apps.apple.com/app/id6443620899))
+* MLAB SMART ([Android](https://play.google.com/store/apps/details?id=com.mlab.smart)) ([iOS](https://apps.apple.com/app/id1611563274))
 * MOBI Plus ([iOS](https://apps.apple.com/app/id1570409506))
 * MOBI Smart ([Android](https://play.google.com/store/apps/details?id=com.mobi.smart)) ([iOS](https://apps.apple.com/app/id1494085905))
 * MODENA Seamless ([Android](https://play.google.com/store/apps/details?id=com.modenasmart.app)) ([iOS](https://apps.apple.com/app/id1553012954))
