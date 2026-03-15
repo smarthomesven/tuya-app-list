@@ -200,6 +200,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Energizer Connect ([Android](https://play.google.com/store/apps/details?id=com.xtreme.energizer)) ([iOS](https://apps.apple.com/app/id1362829750))
 * Energon EMS ([Android](https://play.google.com/store/apps/details?id=homenergon.ems)) ([iOS](https://apps.apple.com/app/id6463782595))
 * ENERJ SMART ([Android](https://play.google.com/store/apps/details?id=com.enerjsmart.home)) ([iOS](https://apps.apple.com/app/id1269500290))
+* Enerlution ([Android](https://play.google.com/store/apps/details?id=com.enerlution.smart)) ([iOS](https://apps.apple.com/app/id1671712101))
 * ENGO Smart ([Android](https://play.google.com/store/apps/details?id=com.engo.smartlife)) ([iOS](https://apps.apple.com/app/id1606693444))
 * Envision Connect ([Android](https://play.google.com/store/apps/details?id=com.envision.connect)) ([iOS](https://apps.apple.com/app/id6464008413))
 * EpcomSmart Home ([Android](https://play.google.com/store/apps/details?id=com.epcom.com)) ([iOS](https://apps.apple.com/app/id6738323477))
