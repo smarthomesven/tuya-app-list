@@ -774,5 +774,6 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * 小精灵助手 ([iOS](https://apps.apple.com/app/id1671111601))
 * 卡梭智能 ([iOS](https://apps.apple.com/app/id1633349738))
 * 智优居 ([iOS](https://apps.apple.com/app/id1420420238))
+* 吉舵智家 ([iOS](https://apps.apple.com/app/id1480317763))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
