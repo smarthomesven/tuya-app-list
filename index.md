@@ -556,6 +556,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Ruihua ([Android](https://play.google.com/store/apps/details?id=com.duomei.smat)) ([iOS](https://apps.apple.com/app/id6471408353))
 * RZT Lifecloud ([iOS](https://apps.apple.com/app/id6463154385))
 * SAHN Smart ([Android](https://play.google.com/store/apps/details?id=com.sahn.smart)) ([iOS](https://apps.apple.com/app/id1510863340))
+* Sanben Smart ([iOS](https://apps.apple.com/app/id1671490033))
 * Sanse Smart ([Android](https://play.google.com/store/apps/details?id=com.sanse.smart)) ([iOS](https://apps.apple.com/app/id1550268348))
 * SANSUI SMART ([iOS](https://apps.apple.com/app/id1483586856))
 * Savvi Security ([Android](https://play.google.com/store/apps/details?id=com.savvi.security)) ([iOS](https://apps.apple.com/app/id1550427655))
