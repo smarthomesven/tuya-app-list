@@ -418,6 +418,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Maytoni Smart ([Android](https://play.google.com/store/apps/details?id=maytoni.smart)) ([iOS](https://apps.apple.com/app/id1588069443))
 * MEDION Life+ ([Android](https://play.google.com/store/apps/details?id=com.medion.medionlifeplus)) ([iOS](https://apps.apple.com/nl/app/id1325118825))
 * MEGA MOTION PRO ([Android](https://play.google.com/store/apps/details?id=com.coolfun.ytd)) ([iOS](https://apps.apple.com/app/id6448187259))
+* Mellerware ([Android](https://play.google.com/store/apps/details?id=com.mellerwere.city)) ([iOS](https://apps.apple.com/app/id1479399330))
 * Mercanvee ([iOS](https://apps.apple.com/app/id6468941218))
 * Mercury Smart ([Android](https://play.google.com/store/apps/details?id=com.mercury.smart)) ([iOS](https://apps.apple.com/app/id1584993396))
 * Meridian Lighting ([Android](https://play.google.com/store/apps/details?id=com.meridian.smart)) ([iOS](https://apps.apple.com/app/id1480398071))
