@@ -57,6 +57,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * AURUMBACH SMART ([Android](https://play.google.com/store/apps/details?id=aurumbachsmart.com)) ([iOS](https://apps.apple.com/app/id6472696069))
 * Ausclimate ([Android](https://play.google.com/store/apps/details?id=com.ausclimate.smart)) ([iOS](https://apps.apple.com/app/id6474173874))
 * AVARO ([Android](https://play.google.com/store/apps/details?id=com.x01)) ([iOS](https://apps.apple.com/app/id1577905728))
+* AvatarControls ([Android](https://play.google.com/store/apps/details?id=com.avatarsmart.home)) ([iOS](https://apps.apple.com/app/id1481393540))
 * AVATTO ([Android](https://play.google.com/store/apps/details?id=com.avatto.smart)) ([iOS](https://apps.apple.com/app/id6550894515))
 * Avidsen Home ([Android](https://play.google.com/store/apps/details?id=com.avidsen.smart)) ([iOS](https://apps.apple.com/app/id1479919843))
 * Axgon ([Android](https://play.google.com/store/apps/details?id=com.axgon.android)) ([iOS](https://apps.apple.com/app/id6476111466))
