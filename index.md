@@ -175,6 +175,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Easine ([Android](https://play.google.com/store/apps/details?id=com.easine.eu.ilife)) ([iOS](https://apps.apple.com/app/id6743065580))
 * Eco4Life Smart Home Controller ([Android](https://play.google.com/store/apps/details?id=com.kelement.smart)) ([iOS](https://apps.apple.com/app/id1276153996))
 * ECORUSH ([Android](https://play.google.com/store/apps/details?id=com.ecorush.ytd)) ([iOS](https://apps.apple.com/app/id6738736693))
+* Eco Smart ([Android](https://play.google.com/store/apps/details?id=com.xinghegu.jxjxjx)) ([iOS](https://apps.apple.com/app/id1631275260))
 * ECOSO ([Android](https://play.google.com/store/apps/details?id=com.ecoso.smart)) ([iOS](https://apps.apple.com/app/id6483928922))
 * ECCOTEMP ([Android](https://play.google.com/store/apps/details?id=com.eccotemp.system)) ([iOS](https://apps.apple.com/app/id1507808674))
 * EdgeAnt ([Android](https://play.google.com/store/apps/details?id=com.edgeantsdkfortuya.www)) ([iOS](https://apps.apple.com/app/id6749724358))
