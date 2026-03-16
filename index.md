@@ -694,6 +694,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * TommaTech Cloud ([Android](https://play.google.com/store/apps/details?id=com.tommatech.cloud)) ([iOS](https://apps.apple.com/app/id6748115131))
 * TouchStone Fireplace ([Android](https://play.google.com/store/apps/details?id=com.touchstone.fireplace)) ([iOS](https://apps.apple.com/app/id6467244035))
 * Trekpleister Smart ([iOS](https://apps.apple.com/app/id1571137948))
+* TreatLife ([Android](https://play.google.com/store/apps/details?id=com.treatlifetech.smart)) ([iOS](https://apps.apple.com/app/id1512336947))
 * TrueLife Smart ([Android](https://play.google.com/store/apps/details?id=com.truelife.smart)) ([iOS](https://apps.apple.com/nl/app/truelife-smart/id1658309999))
 * truSmart ([Android](https://play.google.com/store/apps/details?id=com.trusmart.lumineux)) ([iOS](https://apps.apple.com/app/id1658290279))
 * Trust WiFi ([Android](https://play.google.com/store/apps/details?id=com.trust.smartwifi)) ([iOS](https://apps.apple.com/app/id1528489889))
