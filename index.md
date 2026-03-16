@@ -493,6 +493,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * novita SMART ([Android](https://play.google.com/store/apps/details?id=com.novita.sg)) ([iOS](https://apps.apple.com/app/id1602232319))
 * NuWave Connect ([Android](https://play.google.com/store/apps/details?id=com.nuwave.samrt)) ([iOS](https://apps.apple.com/app/id1442691191))
 * NVC Home ([iOS](https://apps.apple.com/app/id1562666309))
+* Oittm Smart ([iOS](https://apps.apple.com/app/id1233623867))
 * Oji Secure ([Android](https://play.google.com/store/apps/details?id=com.ojismart)) ([iOS](https://apps.apple.com/app/id6636537149))
 * Okasha Smart ([Android](https://play.google.com/store/apps/details?id=com.okasha.smart)) ([iOS](https://apps.apple.com/app/id1481400415))
 * Okos Smart ([Android](https://play.google.com/store/apps/details?id=in.okos.smart)) ([iOS](https://apps.apple.com/app/id1526428086))
