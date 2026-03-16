@@ -360,6 +360,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * IoTele ([Android](https://play.google.com/store/apps/details?id=com.iotele.telem)) ([iOS](https://apps.apple.com/app/id1591411387))
 * IRIS SmartLF ([Android](https://play.google.com/store/apps/details?id=com.irissmart.mian)) ([iOS](https://apps.apple.com/app/id1435305248))
 * iSmart Home ([Android](https://play.google.com/store/apps/details?id=com.app.ismart9)) ([iOS](https://apps.apple.com/app/id1567752409))
+* itek Smart Home ([Android](https://play.google.com/store/apps/details?id=com.itek.smart)) ([iOS](https://apps.apple.com/app/id1287476708))
 * IT Smart ([Android](https://play.google.com/store/apps/details?id=com.ses.itsmart)) ([iOS](https://apps.apple.com/app/id1547972142))
 * iwachi ([Android](https://play.google.com/store/apps/details?id=com.iwachi.smart)) ([iOS](https://apps.apple.com/app/id1618002631))
 * Izy Smart ([Android](https://play.google.com/store/apps/details?id=br.com.intelbras.smart)) ([iOS](https://apps.apple.com/app/id1482385419))
