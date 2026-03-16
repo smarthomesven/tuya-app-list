@@ -382,6 +382,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Kian Smart ([iOS](https://apps.apple.com/app/id1536574772))
 * Kinetic switch ([Android](https://play.google.com/store/apps/details?id=com.ebelong.smart)) ([iOS](https://apps.apple.com/app/id1263864367))
 * KLD Smart Living ([Android](https://play.google.com/store/apps/details?id=com.kldsmarthomes.android)) ([iOS](https://apps.apple.com/app/id1617280816))
+* KMC Smart ([Android](https://play.google.com/store/apps/details?id=com.kmcsmart.plug)) ([iOS](https://apps.apple.com/app/id1212701901))
 * Koble Life ([Android](https://play.google.com/store/apps/details?id=com.koble.smart)) ([iOS](https://apps.apple.com/app/id1495124149))
 * KOCOM Home ([Android](https://play.google.com/store/apps/details?id=com.kocom.iot)) ([iOS](https://apps.apple.com/app/id1620318377))
 * Kogan SmarterHome ([Android](https://play.google.com/store/apps/details?id=com.kogan.smarterhome)) ([iOS](https://apps.apple.com/app/id1394930704))
