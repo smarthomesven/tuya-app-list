@@ -544,6 +544,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * RadioShack Home ([Android](https://play.google.com/store/apps/details?id=com.radioshackhome.android)) ([iOS](https://apps.apple.com/app/id6443709374))
 * RadioShack Smart Home ([Android](https://play.google.com/store/apps/details?id=com.radioshack.smarthome)) ([iOS](https://apps.apple.com/app/id6502373549))
 * RainPoint-TY ([Android](https://play.google.com/store/apps/details?id=com.baldr.rainpoint)) ([iOS](https://apps.apple.com/app/id1499024309))
+* Rang Dong Smart ([Android](https://play.google.com/store/apps/details?id=com.rd.smart)) ([iOS](https://apps.apple.com/app/id1453529638))
 * RCA Smart Home ([Android](https://play.google.com/store/apps/details?id=com.summitllc.rcasmarthome)) ([iOS](https://apps.apple.com/app/id1592813114))
 * RCB ([Android](https://play.google.com/store/apps/details?id=com.rcb.ytd)) ([iOS](https://apps.apple.com/app/id1632593092))
 * Regal SmartHome ([Android](https://play.google.com/store/apps/details?id=com.regalideas.smarthome)) ([iOS](https://apps.apple.com/app/id1616627277))
