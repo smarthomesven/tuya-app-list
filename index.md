@@ -340,6 +340,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * iDispenser ([Android](https://play.google.com/store/apps/details?id=com.dispenser)) ([iOS](https://apps.apple.com/app/id1631098328))
 * iHITEK ([Android](https://play.google.com/store/apps/details?id=com.hitekhome.smart)) ([iOS](https://apps.apple.com/app/id1478076240))
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
+* iLintek Home ([iOS](https://apps.apple.com/app/id1435432534))
 * Illumismart ([iOS](https://apps.apple.com/app/id1459106470))
 * Indurama Living ([Android](https://play.google.com/store/apps/details?id=com.indurama.smart)) ([iOS](https://apps.apple.com/app/id1555720231))
 * IN HOME SMART ([Android](https://play.google.com/store/apps/details?id=com.inhomeapp.smartiot)) ([iOS](https://apps.apple.com/app/id6478166848))
