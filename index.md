@@ -417,6 +417,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Lockec Smart ([Android](https://play.google.com/store/apps/details?id=com.lockec.smart)) ([iOS](https://apps.apple.com/app/id144946666))
 * Love That Lock ([Android](https://play.google.com/store/apps/details?id=com.lovethatlock.llc)) ([iOS](https://apps.apple.com/app/id6466822255))
 * LSC Smart Connect ([Android](https://play.google.com/store/apps/details?id=com.lscsmartconnection.smart)) ([iOS](https://apps.apple.com/app/id1461044590))
+* Lumary ([Android](https://play.google.com/store/apps/details?id=com.lumary.smart)) ([iOS](https://apps.apple.com/app/id1457944893))
 * LUUMR ([Android](https://play.google.com/store/apps/details?id=luumr.app)) ([iOS](https://apps.apple.com/app/id6470302637))
 * LUXUS ONE ([Android](https://play.google.com/store/apps/details?id=luxusone.sg)) ([iOS](https://apps.apple.com/app/id6751254563))
 * Lynddoa ([iOS](https://apps.apple.com/app/id6463614227))
