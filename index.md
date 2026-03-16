@@ -525,6 +525,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Plikc Smart ([Android](https://play.google.com/store/apps/details?id=com.nevewifi.plikc)) ([iOS](https://apps.apple.com/app/id1480343451))
 * POIEMA APP ([Android](https://play.google.com/store/apps/details?id=com.poiema.android)) ([iOS](https://apps.apple.com/app/id1562079478))
 * powerasia ([Android](https://play.google.com/store/apps/details?id=com.powerasiastore.www)) ([iOS](https://apps.apple.com/app/id6744015791))
+* PowerConnect ([iOS](https://apps.apple.com/app/id6475163958))
 * POWERNITY ([Android](https://play.google.com/store/apps/details?id=com.powernity)) ([iOS](https://apps.apple.com/app/id6479609217))
 * PowerStation Manager/Power Station Manager ([Android](https://play.google.com/store/apps/details?id=dj.dps.app)) ([iOS](https://apps.apple.com/app/id6478524243))
 * PPsmart ([Android](https://play.google.com/store/apps/details?id=com.ppsmart)) ([iOS](https://apps.apple.com/app/id6474231116))
