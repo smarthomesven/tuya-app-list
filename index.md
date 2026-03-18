@@ -405,6 +405,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Lamptime Smart ([Android](https://play.google.com/store/apps/details?id=com.lamptime.smartlighting)) ([iOS](https://apps.apple.com/app/id1660220884))
 * Laresmart ([Android](https://play.google.com/store/apps/details?id=com.laresmart.clean)) ([iOS](https://apps.apple.com/app/id1585117977))
 * Laser SmartHome ([Android](https://play.google.com/store/apps/details?id=com.laser.smarthome)) ([iOS](https://apps.apple.com/app/id1515216160))
+* LAVO Smart/樂沃智慧 ([Android](https://play.google.com/store/apps/details?id=com.lavosmart)) ([iOS](https://apps.apple.com/app/id1478213994))
 * LEAP CARE ([iOS](https://apps.apple.com/app/id1637068420))
 * LEAPTECH ([Android](https://play.google.com/store/apps/details?id=com.leap.quantum.smart)) ([iOS](https://apps.apple.com/app/id1637407106))
 * Lefant ([Android](https://play.google.com/store/apps/details?id=com.yunshi.robotlife)) ([iOS](https://apps.apple.com/app/id1573681590))
