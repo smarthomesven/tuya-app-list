@@ -524,6 +524,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * PandaPlus ([Android](https://play.google.com/store/apps/details?id=com.amggroup.pandaplus)) ([iOS](https://apps.apple.com/app/id6636554546))
 * ParrotUncle Smart ([Android](https://play.google.com/store/apps/details?id=com.parrotuncle.android.smart)) ([iOS](https://apps.apple.com/app/id1630782698))
 * PengCa ([Android](https://play.google.com/store/apps/details?id=com.pengca.smart)) ([iOS](https://apps.apple.com/app/id1637327249))
+* Perenio Lite ([Android](https://play.google.com/store/apps/details?id=com.perenio.smarthomelite)) ([iOS](https://apps.apple.com/app/id1513886153))
 * Pet Zero ([Android](https://play.google.com/store/apps/details?id=com.kkpetfeeder.petzero.android)) ([iOS](https://apps.apple.com/app/id1507536028))
 * Petsuper ([Android](https://play.google.com/store/apps/details?id=com.petsuper.petsuper)) ([iOS](https://apps.apple.com/app/id6463713838))
 * Philipiak Home ([Android](https://play.google.com/store/apps/details?id=com.philipiak.pl))
