@@ -346,6 +346,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * iAppliances ([Android](https://play.google.com/store/apps/details?id=shh.iot.iappliances)) ([iOS](https://apps.apple.com/app/id1542193179))
 * iBoto Smart ([Android](https://play.google.com/store/apps/details?id=com.iboto.smart)) ([iOS](https://apps.apple.com/app/id1524595220))
 * iDispenser ([Android](https://play.google.com/store/apps/details?id=com.dispenser)) ([iOS](https://apps.apple.com/app/id1631098328))
+* iFEEL Safe+Smart ([Android](https://play.google.com/store/apps/details?id=com.ifeelsystems.safesmart)) ([iOS](https://apps.apple.com/app/id1583545003))
 * iHITEK ([Android](https://play.google.com/store/apps/details?id=com.hitekhome.smart)) ([iOS](https://apps.apple.com/app/id1478076240))
 * i-Home ([Android](https://play.google.com/store/apps/details?id=com.ealinkapp)) ([iOS](https://apps.apple.com/app/id1585964195))
 * iLintek Home ([iOS](https://apps.apple.com/app/id1435432534))
