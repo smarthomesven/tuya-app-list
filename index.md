@@ -114,6 +114,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Celsi ([Android](https://play.google.com/store/apps/details?id=com.celsi.smart)) ([iOS](https://apps.apple.com/app/id1615740284))
 * CE Smart ([Android](https://play.google.com/store/apps/details?id=com.ce.smart)) ([iOS](https://apps.apple.com/app/id1260847442))
 * CHERRY IoT Solutions ([Android](https://play.google.com/store/apps/details?id=com.cherryhome.android)) ([iOS](https://apps.apple.com/app/id1479540811))
+* Citilux SMART ([Android](https://play.google.com/store/apps/details?id=com.citilux.home)) ([iOS](https://apps.apple.com/app/id1496352233))
 * Clean Air Optima/CleanAirOptima ([Android](https://play.google.com/store/apps/details?id=com.cleanairoptima.smart)) ([iOS](https://apps.apple.com/app/id1597731227))
 * CleverLife Home ([Android](https://play.google.com/store/apps/details?id=com.cleverlifehome.app)) ([iOS](https://apps.apple.com/app/id1660943888))
 * Cloude ([iOS](https://apps.apple.com/app/id1552664787))
