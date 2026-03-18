@@ -709,6 +709,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Time to Grill ([Android](https://play.google.com/store/apps/details?id=com.timetogrill)) ([iOS](https://apps.apple.com/app/id6444230949))
 * TION Smart ([Android](https://play.google.com/store/apps/details?id=com.tion.tionsmart)) ([iOS](https://apps.apple.com/app/id6474229865))
 * TommaTech Cloud ([Android](https://play.google.com/store/apps/details?id=com.tommatech.cloud)) ([iOS](https://apps.apple.com/app/id6748115131))
+* Torus Smart ([Android](https://play.google.com/store/apps/details?id=com.torus.aone)) ([iOS](https://apps.apple.com/app/id1536556922))
 * TouchStone Fireplace ([Android](https://play.google.com/store/apps/details?id=com.touchstone.fireplace)) ([iOS](https://apps.apple.com/app/id6467244035))
 * Trekpleister Smart ([iOS](https://apps.apple.com/app/id1571137948))
 * TreatLife ([Android](https://play.google.com/store/apps/details?id=com.treatlifetech.smart)) ([iOS](https://apps.apple.com/app/id1512336947))
