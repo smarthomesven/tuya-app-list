@@ -738,6 +738,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Veezoompro ([Android](https://play.google.com/store/apps/details?id=veezoom.pro)) ([iOS](https://apps.apple.com/app/id1591195674))
 * Verde Smart ([Android](https://play.google.com/store/apps/details?id=com.verde.smarthome)) ([iOS](https://apps.apple.com/app/id1643093109))
 * VEWsmart ([Android](https://play.google.com/store/apps/details?id=com.vew.smart)) ([iOS](https://apps.apple.com/app/id1492395821))
+* VINO Smart ([Android](https://play.google.com/store/apps/details?id=com.vinoaircon.aone))
 * VIO Smart ([Android](https://play.google.com/store/apps/details?id=com.vio.sg)) ([iOS](https://apps.apple.com/app/id1587640238))
 * Vimar VIEW Product ([Android](https://play.google.com/store/apps/details?id=com.vimar.viewproduct)) ([iOS](https://apps.apple.com/app/id1465226872))
 * Viro ([Android](https://play.google.com/store/apps/details?id=com.viro.app)) ([iOS](https://apps.apple.com/app/id1613458913))
