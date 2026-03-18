@@ -567,6 +567,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Retlux Home ([Android](https://play.google.com/store/apps/details?id=com.retlux.home)) ([iOS](https://apps.apple.com/app/id6444645837))
 * REVEX Timer ([Android](https://play.google.com/store/apps/details?id=com.bn_revex.smart)) ([iOS](https://apps.apple.com/app/id6738333494))
 * RhinoH ([Android](https://play.google.com/store/apps/details?id=com.veriifiedH.fororder)) ([iOS](https://apps.apple.com/app/id6443488286))
+* Ritter Smart ([iOS](https://apps.apple.com/app/id1612470209))
 * Robert Smart ([Android](https://play.google.com/store/apps/details?id=com.robert.smart)) ([iOS](https://apps.apple.com/app/id1501422406))
 * ROBOTIKA ([Android](https://play.google.com/store/apps/details?id=com.robotika.and)) ([iOS](https://apps.apple.com/app/id1588084423))
 * Robot Vac ([Android](https://play.google.com/store/apps/details?id=robot.Vac)) ([iOS](https://apps.apple.com/app/id1509636639))
