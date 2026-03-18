@@ -16,6 +16,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * ACR STOVES ([Android](https://play.google.com/store/apps/details?id=com.acr.smart)) ([iOS](https://apps.apple.com/app/id1579130446))
 * Addin Smart Solution ([Android](https://play.google.com/store/apps/details?id=com.addinmall.com)) ([iOS](https://apps.apple.com/app/id6743737352))
 * Advanced Home ([Android](https://play.google.com/store/apps/details?id=com.advancedhome.smart)) ([iOS](https://apps.apple.com/app/id1665887927))
+* AENO ([Android](https://play.google.com/store/apps/details?id=com.aeno.sda)) ([iOS](https://apps.apple.com/app/id1568753081))
 * Aeriqs Smart ([Android](https://play.google.com/store/apps/details?id=com.aeriqssmart)) ([iOS](https://apps.apple.com/app/id6464680260))
 * Afloia Home ([Android](https://play.google.com/store/apps/details?id=com.apk.afloiahome)) ([iOS](https://apps.apple.com/app/id1565104947))
 * AGL Home ([Android](https://play.google.com/store/apps/details?id=com.agl.home)) ([iOS](https://apps.apple.com/app/id1490099525))
