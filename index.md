@@ -803,5 +803,6 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * 智优居 ([iOS](https://apps.apple.com/app/id1420420238))
 * 吉舵智家 ([iOS](https://apps.apple.com/app/id1480317763))
 * 百胜图咖啡 ([iOS](https://apps.apple.com/app/id6446395434))
+* 台熱牌智能生活+ ([Android](https://play.google.com/store/apps/details?id=com.lovebuy.tewapp)) ([iOS](https://apps.apple.com/app/id6502755398))
 
 **Note:** None of these devices have been confirmed to work with Homey, they have been discovered using [this](https://community.homey.app/t/howto-recognize-tuya-devices/147343) strategy. This information might not be accurate. If you notice any apps that aren’t Tuya-based on this list, please let me know.
