@@ -53,6 +53,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Artika ([Android](https://play.google.com/store/apps/details?id=com.artika.smart)) ([iOS](https://apps.apple.com/app/id1466830190))
 * ASD NLS ([Android](https://play.google.com/store/apps/details?id=asd.com_01)) ([iOS](https://apps.apple.com/app/id6451417571))
 * ASD SMART ([Android](https://play.google.com/store/apps/details?id=com.asd1.smart)) ([iOS](https://apps.apple.com/app/id1625023028))
+* Atlo Alarm ([Android](https://play.google.com/store/apps/details?id=com.atlo.alarms)) ([iOS](https://apps.apple.com/app/id1605105381))
 * Atomi Smart ([Android](https://play.google.com/store/apps/details?id=com.atomi.smart)) ([iOS](https://apps.apple.com/app/id1414704585))
 * AuraSmart ([Android](https://play.google.com/store/apps/details?id=com.aurasmart.security)) ([iOS](https://apps.apple.com/app/id6744069514))
 * AURUMBACH SMART ([Android](https://play.google.com/store/apps/details?id=aurumbachsmart.com)) ([iOS](https://apps.apple.com/app/id6472696069))
