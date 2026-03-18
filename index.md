@@ -137,6 +137,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Construlita Connect ([Android](https://play.google.com/store/apps/details?id=com.construlita.connect)) ([iOS](https://apps.apple.com/app/id1629812848))
 * Cooing Home/쿠잉 홈 ([Android](https://play.google.com/store/apps/details?id=cooing.android.com)) ([iOS](https://apps.apple.com/app/id6502748947))
 * Cookmix ([Android](https://play.google.com/store/apps/details?id=com.cofar.smartv2)) ([iOS](https://apps.apple.com/app/id6743223406))
+* Cooper&Hunter Smart ([Android](https://play.google.com/store/apps/details?id=com.tlyzn.smarthome)) ([iOS](https://apps.apple.com/app/id1541968951))
 * Cootli ([iOS](https://apps.apple.com/app/id6695740719))
 * Coredy Robot ([Android](https://play.google.com/store/apps/details?id=com.coredy.robot)) ([iOS](https://apps.apple.com/app/id1459717220))
 * Cree Lighting ([Android](https://play.google.com/store/apps/details?id=com.creelightingtest.smart)) ([iOS](https://apps.apple.com/app/id1511968459))
