@@ -761,6 +761,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Wattwheels ([Android](https://play.google.com/store/apps/details?id=wattwheels.com)) ([iOS](https://apps.apple.com/app/id6476404161))
 * Weber Protect ([Android](https://play.google.com/store/apps/details?id=com.weber.protect)) ([iOS](https://apps.apple.com/app/id6444956122))
 * WEG Home ([Android](https://play.google.com/store/apps/details?id=com.and.v00)) ([iOS](https://apps.apple.com/app/id1079830355))
+* Westgate Smart ([Android](https://play.google.com/store/apps/details?id=com.westgatsmart.app)) ([iOS](https://apps.apple.com/app/id1533516503))
 * Westek ([Android](https://play.google.com/store/apps/details?id=com.smart.westek)) ([iOS](https://apps.apple.com/app/id1270520249))
 * Westinghouse ([Android](https://play.google.com/store/apps/details?id=com.wst.wstwh)) ([iOS](https://apps.apple.com/app/id6443497424))
 * Westinghouse Butler ([Android](https://play.google.com/store/apps/details?id=com.westinghouse.security)) ([iOS](https://apps.apple.com/app/id1510919539))
