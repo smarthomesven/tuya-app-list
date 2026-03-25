@@ -384,6 +384,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * JETE Smart ([Android](https://play.google.com/store/apps/details?id=id.doran.jetesmart)) ([iOS](https://apps.apple.com/app/id6737586263))
 * JFL Home ([Android](https://play.google.com/store/apps/details?id=com.jfl.home.android)) ([iOS](https://apps.apple.com/app/id1537806874))
 * JOIEEM ([iOS](https://apps.apple.com/app/id1659376078))
+* JONATHAN Y ([Android](https://play.google.com/store/apps/details?id=com.jonathan.y)) ([iOS](https://apps.apple.com/app/id1531741125))
 * Joyoung Link ([Android](https://play.google.com/store/apps/details?id=com.joyoungty.smart)) ([iOS](https://apps.apple.com/app/id6742863362))
 * JR Home ([Android](https://play.google.com/store/apps/details?id=com.jr.jrhome)) ([iOS](https://apps.apple.com/app/id1587286126))
 * JUWEL Smart ([Android](https://play.google.com/store/apps/details?id=com.juwel.smart)) ([iOS](http://apps.apple.com/app/id1537059166))
