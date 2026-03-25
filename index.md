@@ -397,6 +397,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * KEWATEIOT ([iOS](https://apps.apple.com/app/id6450398658))
 * Key-Disp ([Android](https://play.google.com/store/apps/details?id=com.keydispapp.smartiot)) ([iOS](https://apps.apple.com/app/id1612823021))
 * Kian Smart ([iOS](https://apps.apple.com/app/id1536574772))
+* Kichler Connects ([Android](https://play.google.com/store/apps/details?id=com.kichler.connectt)) ([iOS](https://apps.apple.com/app/id1562608091))
 * Kinetic switch ([Android](https://play.google.com/store/apps/details?id=com.ebelong.smart)) ([iOS](https://apps.apple.com/app/id1263864367))
 * KLD Smart Living ([Android](https://play.google.com/store/apps/details?id=com.kldsmarthomes.android)) ([iOS](https://apps.apple.com/app/id1617280816))
 * KMC Smart ([Android](https://play.google.com/store/apps/details?id=com.kmcsmart.plug)) ([iOS](https://apps.apple.com/app/id1212701901))
