@@ -154,6 +154,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * DENVER SMART HOME ([Android](https://play.google.com/store/apps/details?id=com.denver.smartliving)) ([iOS](https://apps.apple.com/app/id1484849812))
 * Deon Smart Living ([Android](https://play.google.com/store/apps/details?id=com.dekkson.smartliving)) ([iOS](https://apps.apple.com/us/app/id1600440662))
 * DERUZ ([Android](https://play.google.com/store/apps/details?id=com.deruiz)) ([iOS](https://apps.apple.com/app/id1614611048))
+* DETIKO ([Android](https://play.google.com/store/apps/details?id=com.detiko)) ([iOS](https://apps.apple.com/app/id6756173511))
 * dewenwils ([Android](https://play.google.com/store/apps/details?id=com.dewenwils.smartiot)) ([iOS](https://apps.apple.com/app/id1592274178))
 * Dexel Smart ([Android](https://play.google.com/store/apps/details?id=com.dexel.smart)) ([iOS](https://apps.apple.com/app/id6448793274))
 * DIGMA SmartLife ([Android](https://play.google.com/store/apps/details?id=com.digma.smart)) ([iOS](https://apps.apple.com/app/id1405367542))
