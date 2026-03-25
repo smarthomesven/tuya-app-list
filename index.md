@@ -721,6 +721,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Trekpleister Smart ([iOS](https://apps.apple.com/app/id1571137948))
 * TreatLife ([Android](https://play.google.com/store/apps/details?id=com.treatlifetech.smart)) ([iOS](https://apps.apple.com/app/id1512336947))
 * TrueLife Smart ([Android](https://play.google.com/store/apps/details?id=com.truelife.smart)) ([iOS](https://apps.apple.com/nl/app/truelife-smart/id1658309999))
+* Tru-Scapes Color Control ([Android](https://play.google.com/store/apps/details?id=com.app.Truscapeslighting)) ([iOS](https://apps.apple.com/app/id1530959030))
 * truSmart ([Android](https://play.google.com/store/apps/details?id=com.trusmart.lumineux)) ([iOS](https://apps.apple.com/app/id1658290279))
 * Trust WiFi ([Android](https://play.google.com/store/apps/details?id=com.trust.smartwifi)) ([iOS](https://apps.apple.com/app/id1528489889))
 * T smart - Tramontina ([Android](https://play.google.com/store/apps/details?id=tramontina.smart.led)) ([iOS](https://apps.apple.com/app/id1568659513))
