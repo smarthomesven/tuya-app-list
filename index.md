@@ -779,6 +779,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * WOOX Security ([Android](https://play.google.com/store/apps/details?id=com.security.woox)) ([iOS](https://apps.apple.com/app/id1542296010))
 * WÜRDEN SMART ([iOS](https://apps.apple.com/app/id1453820675))
 * Wynbee - Smart Home ([Android](https://play.google.com/store/apps/details?id=com.wynbee.smart)) ([iOS](https://apps.apple.com/app/id1493909358))
+* Xaralyn Smart ([iOS](https://apps.apple.com/app/id1523703314))
 * Xelpon Smart ([Android](https://play.google.com/store/apps/details?id=xelpon.smart)) ([iOS](https://apps.apple.com/app/id1624506065))
 * XLevel ([Android](https://play.google.com/store/apps/details?id=com.xlevel)) ([iOS](https://apps.apple.com/app/id6474339207))
 * XMcosy/XMcosy+ ([Android](https://apps.apple.com/us/app/xmcosy/id1546599909)) ([iOS](https://apps.apple.com/app/id1546599909))
