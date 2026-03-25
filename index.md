@@ -52,6 +52,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Aquatic Vita ([iOS](https://apps.apple.com/app/aquatic-vita/id1596680188))
 * Archos Hello Connect
 * Arpha ([Android](https://play.google.com/store/apps/details?id=com.arpha.arpha)) ([iOS](https://apps.apple.com/app/id1468455803))
+* Array by Hampton ([Android](https://play.google.com/store/apps/details?id=com.hamptonproducts.array2)) ([iOS](https://apps.apple.com/app/id1509511674))
 * Artika ([Android](https://play.google.com/store/apps/details?id=com.artika.smart)) ([iOS](https://apps.apple.com/app/id1466830190))
 * ASD NLS ([Android](https://play.google.com/store/apps/details?id=asd.com_01)) ([iOS](https://apps.apple.com/app/id6451417571))
 * ASD SMART ([Android](https://play.google.com/store/apps/details?id=com.asd1.smart)) ([iOS](https://apps.apple.com/app/id1625023028))
