@@ -196,6 +196,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * EGLOO-L ([Android](https://play.google.com/store/apps/details?id=kr.co.truen.egloo.light)) ([iOS](https://apps.apple.com/app/id1223340145))
 * Eight Smart ([Android](https://play.google.com/store/apps/details?id=com.eightdesign.smartt)) ([iOS](https://apps.apple.com/app/id6475663673))
 * EKAZA ([Android](https://play.google.com/store/apps/details?id=com.ekstech.ekaza)) ([iOS](https://apps.apple.com/app/id1468614367))
+* EKF Connect 2023 ([Android](https://play.google.com/store/apps/details?id=com.ekfgroup.homeconnect)) ([iOS](https://apps.apple.com/app/id1521430142))
 * EKO Home ([Android](https://play.google.com/store/apps/details?id=com.eko.au)) ([iOS](https://apps.apple.com/app/id1567353360))
 * ELEGRP HOME ([Android](https://play.google.com/store/apps/details?id=com.elegrp.home)) ([iOS](https://apps.apple.com/app/id1639847254))
 * Elettromec Connect ([Android](https://play.google.com/store/apps/details?id=com.elettromec.connects)) ([iOS](https://apps.apple.com/app/id6450545855))
