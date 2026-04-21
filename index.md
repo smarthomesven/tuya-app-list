@@ -411,6 +411,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Kozii ([Android](https://play.google.com/store/apps/details?id=com.kozii.smart)) ([iOS](https://apps.apple.com/app/id1506176703))
 * Krisbow Sync (Smart Klic) ([Android](https://play.google.com/store/apps/details?id=com.kawanlama.smartklic)) ([iOS](https://apps.apple.com/app/id1486743156))
 * Kruidvat Smart Home ([Android](https://play.google.com/store/apps/details?id=kv.kruidvat.smart.home)) ([iOS](https://apps.apple.com/app/id1522421052))
+* Kuled ([iOS](https://apps.apple.com/app/id1339967098))
 * LAMPTAN SMART ([Android](https://play.google.com/store/apps/details?id=com.lamptan.smart)) ([iOS](https://apps.apple.com/app/id1484819385))
 * Lamptime Smart ([Android](https://play.google.com/store/apps/details?id=com.lamptime.smartlighting)) ([iOS](https://apps.apple.com/app/id1660220884))
 * Laresmart ([Android](https://play.google.com/store/apps/details?id=com.laresmart.clean)) ([iOS](https://apps.apple.com/app/id1585117977))
