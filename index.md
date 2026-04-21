@@ -569,6 +569,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Qilive Smart ([Android](https://play.google.com/store/apps/details?id=com.qilive.smart)) ([iOS](https://apps.apple.com/nl/app/id1496925931))
 * qnect home ([Android](https://play.google.com/store/apps/details?id=com.qnecthome.smart)) ([iOS](https://apps.apple.com/app/id1485716388))
 * Qsglin ([iOS](https://apps.apple.com/app/id6748220338))
+* Q-Tran LED ([iOS](https://apps.apple.com/app/id1524654737))
 * Quality Heating ([Android](https://play.google.com/store/apps/details?id=com.quality.heating)) ([iOS](https://apps.apple.com/app/id1463765904))
 * QUBEV Smart ([Android](https://play.google.com/store/apps/details?id=com.qubev.smart)) ([iOS](https://apps.apple.com/app/id1670415083))
 * Quinetic ([Android](https://play.google.com/store/apps/details?id=com.quinetic2023)) ([iOS](https://apps.apple.com/app/id6447827283))
