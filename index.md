@@ -697,6 +697,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * StepInn ([Android](https://play.google.com/store/apps/details?id=com.stephouse.com)) ([iOS](https://apps.apple.com/app/id6743758393))
 * Steren Home ([Android](https://play.google.com/store/apps/details?id=com.steren.home)) ([iOS](https://apps.apple.com/app/id1455275889))
 * Stirling ([Android](https://play.google.com/store/apps/details?id=com.stirling.smart)) ([iOS](https://apps.apple.com/app/id1521978982))
+* STITCH by Monoprice ([Android](https://play.google.com/store/apps/details?id=com.monoprice.stitch)) ([iOS](https://apps.apple.com/app/id1404140733))
 * Stonehouse Smart ([Android](https://play.google.com/store/apps/details?id=com.stonehouse.smart)) ([iOS](https://apps.apple.com/app/id6463493264))
 * Sturlite iHome ([Android](https://play.google.com/store/apps/details?id=com.sturlitesmarthome2app.android)) ([iOS](https://apps.apple.com/app/id6475346123))
 * SULION IoT ([Android](https://play.google.com/store/apps/details?id=com.es.sulion.smart)) ([iOS](https://apps.apple.com/app/id1465073669))
