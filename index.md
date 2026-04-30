@@ -433,6 +433,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * littlelf smart ([Android](https://play.google.com/store/apps/details?id=com.littlelf.smarthome)) ([iOS](https://apps.apple.com/app/id1403309262))
 * Linus Smart ([Android](https://play.google.com/store/apps/details?id=com.linus.smart)) ([iOS](https://apps.apple.com/app/id1530894750))
 * LITEdge ([Android](https://play.google.com/store/apps/details?id=com.torchstarlitedge.smart)) ([iOS](https://apps.apple.com/app/id1232129468))
+* LiveFine ([Android](https://play.google.com/store/apps/details?id=com.caglobal.livefine)) ([iOS](https://apps.apple.com/app/id1575380221))
 * Living Comfort ([Android](https://play.google.com/store/apps/details?id=com.livingcomfort.smart)) ([iOS](https://apps.apple.com/app/id1631845730))
 * LL OneTouch ([Android](https://play.google.com/store/apps/details?id=com.louvolite.onetouch)) ([iOS](https://apps.apple.com/app/id1672377946))
 * LloydsSmart ([Android](https://play.google.com/store/apps/details?id=com.smart.lloyds)) ([iOS](https://apps.apple.com/app/id1513943969))
