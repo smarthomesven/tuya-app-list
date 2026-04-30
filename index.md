@@ -330,6 +330,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * HOMEETEC SMART ([Android](https://play.google.com/store/apps/details?id=com.homeetec.smart)) ([iOS](https://apps.apple.com/app/id1372703356))
 * Home Intellect ([Android](https://play.google.com/store/apps/details?id=com.home.intellect)) ([iOS](https://apps.apple.com/us/app/id1645266803))
 * Home Kalley ([Android](https://play.google.com/store/apps/details?id=com.kalley.smart)) ([iOS](https://apps.apple.com/app/id1428926693))
+* hOmeLabs/hOmeLabs connect ([Android](https://play.google.com/store/apps/details?id=com.grp.mwk)) ([iOS](https://apps.apple.com/app/id1550704604))
 * Homeland ([Android](https://play.google.com/store/apps/details?id=com.taurus.homeland)) ([iOS](https://apps.apple.com/app/id1536403090))
 * Home-Link ([Android](https://play.google.com/store/apps/details?id=com.ursus.online)) ([iOS](https://apps.apple.com/app/id1373261945))
 * HomeMate Smart ([Android](https://play.google.com/store/apps/details?id=homemate.smart)) ([iOS](https://apps.apple.com/app/id1551789380))
