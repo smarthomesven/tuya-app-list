@@ -774,6 +774,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Walton Smart Appliances ([Android](https://play.google.com/store/apps/details?id=com.waltonsmartac)) ([iOS](https://apps.apple.com/app/id1489686245))
 * WAP Connect ([Android](https://play.google.com/store/apps/details?id=com.WAP.Connect)) ([iOS](https://apps.apple.com/app/id1548950833))
 * Warmme/智能温控器 ([Android](https://play.google.com/store/apps/details?id=com.thermtouch.smart)) ([iOS](https://apps.apple.com/app/id1181726449))
+* Wasserstein ([Android](https://play.google.com/store/apps/details?id=com.wasserstein.smart)) ([iOS](https://apps.apple.com/app/id1215495377))
 * WATASHI IoT ([Android](https://play.google.com/store/apps/details?id=com.watashiiot.smart)) ([iOS](https://apps.apple.com/app/id1450923606))
 * Wattwheels ([Android](https://play.google.com/store/apps/details?id=wattwheels.com)) ([iOS](https://apps.apple.com/app/id6476404161))
 * Weber Protect ([Android](https://play.google.com/store/apps/details?id=com.weber.protect)) ([iOS](https://apps.apple.com/app/id6444956122))
