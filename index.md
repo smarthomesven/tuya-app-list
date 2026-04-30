@@ -723,6 +723,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Tempo Solar ([Android](https://play.google.com/store/apps/details?id=temposolar.com)) ([iOS](https://apps.apple.com/app/id6478091990))
 * TENS ([iOS](https://apps.apple.com/app/id1568088666))
 * Tellur Smart ([Android](https://play.google.com/store/apps/details?id=com.tllsmrt.smart)) ([iOS](https://apps.apple.com/app/id1431862324))
+* Termofol Smart ([Android](https://play.google.com/store/apps/details?id=com.termofol.smart)) ([iOS](https://apps.apple.com/app/id1418524082))
 * Teros Smart ([Android](https://play.google.com/store/apps/details?id=com.terossmart)) ([iOS](https://apps.apple.com/app/id6466133700))
 * TESLA Smart ([Android](https://play.google.com/store/apps/details?id=com.tesla.smart)) ([iOS](https://apps.apple.com/app/id1548684055))
 * Tesla Smart Choice ([Android](https://play.google.com/store/apps/details?id=com.smart.tesla)) ([iOS](https://apps.apple.com/app/id1567096522))
