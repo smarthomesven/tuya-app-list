@@ -493,6 +493,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Mus Flame ([Android](https://play.google.com/store/apps/details?id=com.richen.musflame.android)) ([iOS](https://apps.apple.com/app/id1535155038))
 * MyCalpha ([iOS](https://apps.apple.com/app/id6474948024))
 * MyCrompton ([Android](https://play.google.com/store/apps/details?id=com.cromptoncoin.mycrompton)) ([iOS](https://apps.apple.com/app/id1507917036))
+* My Ivation ([Android](https://play.google.com/store/apps/details?id=com.caglobal.iot)) ([iOS](https://apps.apple.com/app/id1470570286))
 * MYJJA ([Android](https://play.google.com/store/apps/details?id=com.myjja.smart)) ([iOS](https://apps.apple.com/app/id6443848527))
 * My Perfect Home ([Android](https://play.google.com/store/apps/details?id=com.mpm.smarthome1)) ([iOS](https://apps.apple.com/app/id6477182458))
 * My Pryzm ([Android](https://play.google.com/store/apps/details?id=com.bmsmart.android)) ([iOS](https://apps.apple.com/app/id1620536126))
