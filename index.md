@@ -310,6 +310,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * HeySmart ([Android](https://play.google.com/store/apps/details?id=com.konelco.heysmart)) ([iOS](https://apps.apple.com/app/id1477966732))
 * HG5 ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg5)) ([iOS](https://apps.apple.com/app/id6444718964))
 * HG Robots ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg4)) ([iOS](https://apps.apple.com/app/id6466626489))
+* HH Smart ([Android](https://play.google.com/store/apps/details?id=com.hihengha.smart)) ([iOS](https://apps.apple.com/app/id6739068971))
 * Hihome Smart ([Android](https://play.google.com/store/apps/details?id=com.hihome.smart)) ([iOS](https://apps.apple.com/app/id1450496231))
 * HIKOBIKE ([Android](https://play.google.com/store/apps/details?id=hik.onz)) ([iOS](https://apps.apple.com/app/id6746408570))
 * HINEN ([Android](https://play.google.com/store/apps/details?id=com.solism.android_01)) ([iOS](https://apps.apple.com/app/id6446358921))
