@@ -428,6 +428,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Letsmart ([Android](https://play.google.com/store/apps/details?id=com.fogatti.android.letsmart)) ([iOS](https://apps.apple.com/app/id6743710664))
 * Lidl Home ([Android](https://play.google.com/store/apps/details?id=com.lidlhome.smart)) ([iOS](https://apps.apple.com/nl/app/lidl-home/id1504839856))
 * LIFETAIL ([Android](https://play.google.com/store/apps/details?id=com.petsuper)) ([iOS](https://apps.apple.com/app/id1631321774))
+* LightForLife ([Android](https://play.google.com/store/apps/details?id=com.lightforlife.light)) ([iOS](https://apps.apple.com/app/id1501311356))
 * Lighting Home ([Android](https://play.google.com/store/apps/details?id=com.flualighthome.fluax)) ([iOS](https://apps.apple.com/app/id1536585639))
 * Lightpro ([Android](https://play.google.com/store/apps/details?id=com.techmar.lightpro)) ([iOS](https://apps.apple.com/app/id1662825922))
 * LinkPlus Life ([iOS](https://apps.apple.com/app/id1440964396))
