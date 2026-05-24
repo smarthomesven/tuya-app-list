@@ -496,6 +496,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * MSTI Smart ([Android](https://play.google.com/store/apps/details?id=mstilock.smart.com)) ([iOS](https://apps.apple.com/app/id1602959129))
 * Multi Casa Conectada ([Android](https://play.google.com/store/apps/details?id=com.giga.smart)) ([iOS](https://apps.apple.com/app/id1476445887))
 * Mus Flame ([Android](https://play.google.com/store/apps/details?id=com.richen.musflame.android)) ([iOS](https://apps.apple.com/app/id1535155038))
+* muvit iO Home ([Android](https://play.google.com/store/apps/details?id=com.muvitio.home)) ([iOS](https://apps.apple.com/app/id1472416676))
 * MyCalpha ([iOS](https://apps.apple.com/app/id6474948024))
 * MyCrompton ([Android](https://play.google.com/store/apps/details?id=com.cromptoncoin.mycrompton)) ([iOS](https://apps.apple.com/app/id1507917036))
 * My Ivation ([Android](https://play.google.com/store/apps/details?id=com.caglobal.iot)) ([iOS](https://apps.apple.com/app/id1470570286))
