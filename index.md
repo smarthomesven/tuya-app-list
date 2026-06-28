@@ -275,6 +275,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Germanica Smart Home ([Android](https://play.google.com/store/apps/details?id=com.germanica.smart)) ([iOS](https://apps.apple.com/app/id1577721920))
 * German Pool Smart Control ([Android](https://play.google.com/store/apps/details?id=com.germanpool.smartcontrol)) ([iOS](https://apps.apple.com/app/id1639333093))
 * GHome ([Android](https://play.google.com/store/apps/details?id=com.gosund.smart)) ([iOS](https://apps.apple.com/app/id1456965228))
+* GHome-Smart Living ([iOS](https://apps.apple.com/app/id1363064671))
 * Gilmour ([Android](https://play.google.com/store/apps/details?id=gilmour.com)) ([iOS](https://apps.apple.com/app/id6572323301))
 * Globe Suite ([Android](https://play.google.com/store/apps/details?id=com.globe.electric)) ([iOS](https://apps.apple.com/app/id1418410758))
 * Globotok ([Android](https://play.google.com/store/apps/details?id=com.neview.globotok)) ([iOS](https://apps.apple.com/app/id6738340478))
