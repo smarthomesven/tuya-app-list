@@ -106,6 +106,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * BrizLabs Life ([Android](https://play.google.com/store/apps/details?id=com.brizlabs.smart)) ([iOS](https://apps.apple.com/app/id1641856148))
 * Broan-NuTone Air Purifier ([Android](https://play.google.com/store/apps/details?id=com.broan.smart)) ([iOS](https://apps.apple.com/app/id6444389495))
 * BTG IOT HD ([Android](https://play.google.com/store/apps/details?id=com.bolide.btgiot)) ([iOS](https://apps.apple.com/app/id6443791172))
+* Bytech ([Android](https://play.google.com/store/apps/details?id=com.bytech)) ([iOS](https://apps.apple.com/app/id6502498724))
 * C&JsmartFIRE ([Android](https://play.google.com/store/apps/details?id=com.cnjsmartfire.and)) ([iOS](https://apps.apple.com/app/id1592795315))
 * Caine Hill Smart ([Android](https://play.google.com/store/apps/details?id=com.tb.greenants)) ([iOS](https://apps.apple.com/us/app/id1659379126))
 * Calex smart ([Android](https://play.google.com/store/apps/details?id=com.calexsmart.smart)) ([iOS](https://apps.apple.com/app/id1471978691))
