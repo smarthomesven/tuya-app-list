@@ -796,7 +796,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Westinghouse Butler ([Android](https://play.google.com/store/apps/details?id=com.westinghouse.security)) ([iOS](https://apps.apple.com/app/id1510919539))
 * Westinghouse Smart Plug ([Android](https://play.google.com/store/apps/details?id=com.smart.westinghouse)) ([iOS](https://apps.apple.com/app/id1466944565))
 * WF TH05 ([Android](https://play.google.com/store/apps/details?id=com.edsion.test)) ([iOS](https://apps.apple.com/app/id1493884560))
-* Wi_Fi Socket ([iOS](https://apps.apple.com/app/id1251791343))
+* Wi_Fi Socket
 * Wicked Audio ([Android](https://play.google.com/store/apps/details?id=com.wickedaudio.app1)) ([iOS](https://apps.apple.com/us/app/id6444458537))
 * WIFI Smart Control ([iOS](https://apps.apple.com/app/id1301096210))
 * Wisesky Smart ([Android](https://play.google.com/store/apps/details?id=com.wisesky.smart)) ([iOS](https://apps.apple.com/app/id6473825147))
