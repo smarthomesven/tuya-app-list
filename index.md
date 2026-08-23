@@ -815,7 +815,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * XMcosy/XMcosy+ ([Android](https://apps.apple.com/us/app/xmcosy/id1546599909)) ([iOS](https://apps.apple.com/app/id1546599909))
 * Xodo Smart ([Android](https://play.google.com/store/apps/details?id=com.contixo.smart)) ([iOS](https://apps.apple.com/app/id1468630689))
 * Xtreme Connected Simple Home ([Android](https://play.google.com/store/apps/details?id=com.xtreme.simplehome)) ([iOS](https://apps.apple.com/app/id6615083315))
-* Yejing Smart ([iOS](https://apps.apple.com/app/id1597243000))
+* YEJING Smart ([iOS](https://apps.apple.com/app/id1597243000))
 * Yoolax Home ([Android](https://play.google.com/store/apps/details?id=com.yoolax.smarthome)) ([iOS](https://apps.apple.com/app/id1603793493))
 * YouFs-A (  [Android](https://play.google.com/store/apps/details?id=com.yongfengshun)) ([iOS](https://apps.apple.com/app/id1615712353))
 * YOUTILITY ([Android](https://play.google.com/store/apps/details?id=com.youtility.smart)) ([iOS](https://apps.apple.com/us/app/id1490079746))
