@@ -436,7 +436,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * LightForLife ([Android](https://play.google.com/store/apps/details?id=com.lightforlife.light)) ([iOS](https://apps.apple.com/app/id1501311356))
 * Lighting Home ([Android](https://play.google.com/store/apps/details?id=com.flualighthome.fluax)) ([iOS](https://apps.apple.com/app/id1536585639))
 * Lightpro ([Android](https://play.google.com/store/apps/details?id=com.techmar.lightpro)) ([iOS](https://apps.apple.com/app/id1662825922))
-* LinkPlus Life ([iOS](https://apps.apple.com/app/id1440964396))
+* Linkplus Life ([iOS](https://apps.apple.com/app/id1440964396))
 * Link Sensio ([Android](https://play.google.com/store/apps/details?id=com.linksensio.lighting)) ([iOS](https://apps.apple.com/app/id1521425169))
 * LinkSmart ([Android](https://play.google.com/store/apps/details?id=com.link.smartiot)) ([iOS](https://apps.apple.com/app/id6477522914))
 * littlelf smart ([Android](https://play.google.com/store/apps/details?id=com.littlelf.smarthome)) ([iOS](https://apps.apple.com/app/id1403309262))
