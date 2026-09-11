@@ -167,7 +167,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Dexel Smart ([Android](https://play.google.com/store/apps/details?id=com.dexel.smart)) ([iOS](https://apps.apple.com/app/id6448793274))
 * DIGMA SmartLife ([Android](https://play.google.com/store/apps/details?id=com.digma.smart)) ([iOS](https://apps.apple.com/app/id1405367542))
 * Dimas Connect ([Android](https://play.google.com/store/apps/details?id=com.dimasconnect.a02)) ([iOS](https://apps.apple.com/app/id1630156927))
-* Djive Home ([iOS](https://apps.apple.com/app/id1511285704))
+* Djive Home
 * DMB Home ([iOS](https://apps.apple.com/app/id6470797207))
 * Dnake Air
 * Dnake Smart Life ([Android](https://play.google.com/store/apps/details?id=com.dnake.swift.smart)) ([iOS](https://apps.apple.com/app/id6444816069))
