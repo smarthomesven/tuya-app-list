@@ -729,7 +729,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Tecnolite Connect ([Android](https://play.google.com/store/apps/details?id=com.tecno.smart)) ([iOS](https://apps.apple.com/app/id1489981663))
 * Teeho Smart ([Android](https://play.google.com/store/apps/details?id=com.teehosmart.iot)) ([iOS](https://apps.apple.com/app/id6745164694))
 * Tempo Solar ([Android](https://play.google.com/store/apps/details?id=temposolar.com)) ([iOS](https://apps.apple.com/app/id6478091990))
-* TENS ([iOS](https://apps.apple.com/app/id1568088666))
+* TENS
 * Tellur Smart ([Android](https://play.google.com/store/apps/details?id=com.tllsmrt.smart)) ([iOS](https://apps.apple.com/app/id1431862324))
 * Termofol Smart ([Android](https://play.google.com/store/apps/details?id=com.termofol.smart)) ([iOS](https://apps.apple.com/app/id1418524082))
 * Teros Smart ([Android](https://play.google.com/store/apps/details?id=com.terossmart)) ([iOS](https://apps.apple.com/app/id6466133700))
