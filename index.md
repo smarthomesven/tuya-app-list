@@ -403,7 +403,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * KABUM! smart ([Android](https://play.google.com/store/apps/details?id=com.kabum.smart)) ([iOS](https://apps.apple.com/app/id1491026221))
 * KeldCo ([Android](https://play.google.com/store/apps/details?id=com.emporiumsecurity.iot)) ([iOS](https://apps.apple.com/app/id6738979069))
 * Kent Smart Home ([Android](https://play.google.com/store/apps/details?id=com.kent.smarthome)) ([iOS](https://apps.apple.com/app/id6747657336))
-* KEWATEIOT ([iOS](https://apps.apple.com/app/id6450398658))
+* KEWATEIOT
 * Key-Disp ([Android](https://play.google.com/store/apps/details?id=com.keydispapp.smartiot)) ([iOS](https://apps.apple.com/app/id1612823021))
 * Kian Smart ([iOS](https://apps.apple.com/app/id1536574772))
 * Kichler Connects ([Android](https://play.google.com/store/apps/details?id=com.kichler.connectt)) ([iOS](https://apps.apple.com/app/id1562608091))
