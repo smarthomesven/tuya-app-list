@@ -636,7 +636,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Servetec IoT/써브텍 IoT ([Android](https://play.google.com/store/apps/details?id=com.servetecplus.smart)) ([iOS](https://apps.apple.com/app/id6445871128))
 * Sharkward ([iOS](https://apps.apple.com/app/id1554642690))
 * Shellbot Home ([Android](https://play.google.com/store/apps/details?id=com.deenkee.smart)) ([iOS](https://apps.apple.com/app/id1535317049))
-* Sheng Zhe Wisdom ([iOS](https://apps.apple.com/app/id1600050404))
+* Sheng Zhe Wisdom
 * Shinka Smart
 * Shun Hing ([Android](https://play.google.com/store/apps/details?id=com.rasonic.smartiot)) ([iOS](https://apps.apple.com/app/id6469593624))
 * ShuZhiHome ([iOS](https://apps.apple.com/app/id1672521255))
