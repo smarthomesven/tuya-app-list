@@ -352,7 +352,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Houself ([Android](https://play.google.com/store/apps/details?id=com.dexp01.reoka01.com)) ([iOS](https://apps.apple.com/app/id6478510632))
 * Hover-1 E-Mobility ([Android](https://play.google.com/store/apps/details?id=com.hover.one)) ([iOS](https://apps.apple.com/app/id1587545201))
 * HOVERMAX ([Android](https://play.google.com/store/apps/details?id=com.hovermax.ytd)) ([iOS](https://apps.apple.com/app/id6456492283))
-* Huem ([Android](https://play.google.com/store/apps/details?id=com.meshkati.smart)) ([iOS](https://apps.apple.com/app/id1506384540))
+* Huem ([iOS](https://apps.apple.com/app/id1506384540))
 * HUEM Residence ([Android](https://play.google.com/store/apps/details?id=com.meshkati_residence.smart)) ([iOS](https://apps.apple.com/app/id6447483513))
 * Hugolog Connect ([Android](https://play.google.com/store/apps/details?id=com.hugolog.smart)) ([iOS](https://apps.apple.com/app/id1492287520))
 * Huilian Smart ([Android](https://play.google.com/store/apps/details?id=com.punp.palmtophuilian)) ([iOS](https://apps.apple.com/nl/app/huilian-smart/id1555220714)
