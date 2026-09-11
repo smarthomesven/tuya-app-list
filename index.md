@@ -737,7 +737,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Tesla Smart Choice ([Android](https://play.google.com/store/apps/details?id=com.smart.tesla)) ([iOS](https://apps.apple.com/app/id1567096522))
 * Tesvor ([Android](https://play.google.com/store/apps/details?id=com.tesvor)) ([iOS](https://apps.apple.com/app/id1560956194))
 * Thaleos Connect ([Android](https://play.google.com/store/apps/details?id=com.thaleos.mythaleos)) ([iOS](https://apps.apple.com/app/id6482850549))
-* Theralux Inspire HP ([Android](https://play.google.com/store/apps/details?id=com.theralux.smart)) ([iOS](https://apps.apple.com/app/id6569231978))
+* Theralux Inspire HP ([iOS](https://apps.apple.com/app/id6569231978))
 * Thinklink ([Android](https://play.google.com/store/apps/details?id=www.thinkglobe.com.my)) ([iOS](https://apps.apple.com/app/id6444817842))
 * ThomsonHome ([Android](https://play.google.com/store/apps/details?id=com.thomson.home)) ([iOS](https://apps.apple.com/app/id6743740563))
 * Time to Grill ([Android](https://play.google.com/store/apps/details?id=com.timetogrill)) ([iOS](https://apps.apple.com/app/id6444230949))
