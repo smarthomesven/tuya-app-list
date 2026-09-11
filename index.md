@@ -84,7 +84,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * BeSmart-Living ([Android](https://play.google.com/store/apps/details?id=com.besmart.smart)) ([iOS](https://apps.apple.com/app/id1549122622))
 * BETA Smart ([Android](https://play.google.com/store/apps/details?id=com.beta.smartlife)) ([iOS](https://apps.apple.com/app/id6751463685))
 * Betterlife Connect ([Android](https://play.google.com/store/apps/details?id=com.betterlife.connect)) ([iOS](https://apps.apple.com/app/id1456168754))
-* Baybot ([Android](https://play.google.com/store/apps/details?id=baybot.app)) ([iOS](https://apps.apple.com/app/id1607453692))
+* Baybot ([iOS](https://apps.apple.com/app/id1607453692))
 * Bgnius ([Android](https://play.google.com/store/apps/details?id=com.bgenius.abc)) ([iOS](https://apps.apple.com/app/id1568317668))
 * Bharat Switch ([iOS](https://apps.apple.com/app/id1627026890))
 * bikniks ([iOS](https://apps.apple.com/app/id6450449183))
