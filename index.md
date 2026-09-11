@@ -508,7 +508,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * MYJJA ([Android](https://play.google.com/store/apps/details?id=com.myjja.smart)) ([iOS](https://apps.apple.com/app/id6443848527))
 * My Perfect Home ([Android](https://play.google.com/store/apps/details?id=com.mpm.smarthome1)) ([iOS](https://apps.apple.com/app/id6477182458))
 * My Pryzm ([Android](https://play.google.com/store/apps/details?id=com.bmsmart.android)) ([iOS](https://apps.apple.com/app/id1620536126))
-* MySmartFriend ([iOS](https://apps.apple.com/app/id6478832840))
+* MySmartFriend
 * MySmartH ([Android](https://play.google.com/store/apps/details?id=com.canada.smart)) ([iOS](https://apps.apple.com/app/id1478093525))
 * My Watt Connect ([Android](https://play.google.com/store/apps/details?id=com.mywatt.mywattconnect)) ([iOS](https://apps.apple.com/app/id6477638624))
 * Nahui Energy ([Android](https://play.google.com/store/apps/details?id=com.haier.nahui.newenergy)) ([iOS](https://apps.apple.com/au/app/id6449927538))
