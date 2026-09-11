@@ -310,7 +310,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Helo by Strong ([Android](https://play.google.com/store/apps/details?id=com.strong.iot.helo)) ([iOS](https://apps.apple.com/app/id1530528912))
 * Helo Mate ([iOS](https://apps.apple.com/app/id1563700339))
 * HEMA SMART ([Android](https://play.google.com/store/apps/details?id=com.hemasmart.smart)) ([iOS](https://apps.apple.com/app/id1529531949))
-* Henden Heat Pump ([Android](https://play.google.com/store/apps/details?id=com.reece.sarmt)) ([iOS](https://apps.apple.com/app/id6569243082))
+* Henden Heat Pump ([iOS](https://apps.apple.com/app/id6569243082))
 * Hestia UK ([Android](https://play.google.com/store/apps/details?id=co.uk.hestia)) ([iOS](https://apps.apple.com/app/id6449735735))
 * HeySmart ([Android](https://play.google.com/store/apps/details?id=com.konelco.heysmart)) ([iOS](https://apps.apple.com/app/id1477966732))
 * HG5 ([Android](https://play.google.com/store/apps/details?id=com.haiereurope.hg5)) ([iOS](https://apps.apple.com/app/id6444718964))
