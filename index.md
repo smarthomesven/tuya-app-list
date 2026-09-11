@@ -154,7 +154,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Croma Sync ([Android](https://play.google.com/store/apps/details?id=com.croma.sync)) ([iOS](https://apps.apple.com/app/id6474095090))
 * CTV Home ([Android](https://play.google.com/store/apps/details?id=com.ctv.home)) ([iOS](https://apps.apple.com/app/id1518976282))
 * Dals Connect ([Android](https://play.google.com/store/apps/details?id=com.dalsconnect.smart)) ([iOS](https://apps.apple.com/app/id1487825518))
-* Danby ([iOS](https://apps.apple.com/app/id1491507188))
+* Danby Smart Home ([iOS](https://apps.apple.com/app/id1491507188))
 * Dauer Manufacturing ([Android](https://play.google.com/store/apps/details?id=com.dauermanufacturing.smartiot)) ([iOS](https://apps.apple.com/app/id6499562075))
 * De Dietrich Smart AC ([Android](https://play.google.com/store/apps/details?id=com.bdrthermea.ac.dedietrich)) ([iOS](https://apps.apple.com/app/id6736655881))
 * Della+ ([Android](https://play.google.com/store/apps/details?id=com.dellahome.android)) ([iOS](https://apps.apple.com/app/id1590950655))
