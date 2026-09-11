@@ -826,7 +826,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Zeego Smart ([Android](https://play.google.com/store/apps/details?id=com.zeego.zhiyi)) ([iOS](https://apps.apple.com/app/id1641056100))
 * ZEMISMART ([Android](https://play.google.com/store/apps/details?id=com.smarthome.life.zemismart)) ([iOS](https://apps.apple.com/app/id6670541613))
 * Zeswin - Smart Living ([Android](https://play.google.com/store/apps/details?id=com.zeswin.smart)) ([iOS](https://apps.apple.com/app/id6751108513))
-* Zizoika Smart ([iOS](https://apps.apple.com/app/id1623144813))
+* Zizoika Smart
 * ZSmart ([Android](https://play.google.com/store/apps/details?id=com.zkteco.zsmart)) ([iOS](https://apps.apple.com/app/id1484043889))
 * zhuiguangmotor/追光电摩 ([iOS](https://apps.apple.com/app/id6742768967))
 * 绿创智家 智慧家居 ([iOS](https://apps.apple.com/app/id6575366722))
