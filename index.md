@@ -265,7 +265,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * Fundi Smart Home ([Android](https://play.google.com/store/apps/details?id=com.fundi.smarthome)) ([iOS](https://apps.apple.com/app/id6754311067))
 * FUTROM ([Android](https://play.google.com/store/apps/details?id=com.futrom.com)) ([iOS](https://apps.apple.com/app/id1625694754))
 * G-Life Smart ([Android](https://play.google.com/store/apps/details?id=com.generallife.tr)) ([iOS](https://apps.apple.com/app/id6443701064))
-* G-Light ([iOS](https://apps.apple.com/app/id1484748445))
+* G-Light
 * G-Light Smart ([Android](https://play.google.com/store/apps/details?id=com.smart.glight)) ([iOS](https://apps.apple.com/app/id1573519590))
 * Galaxy Smart ([Android](https://play.google.com/store/apps/details?id=com.galaxylife))
 * Garden Smarter ([iOS](https://apps.apple.com/app/id1631800567))
