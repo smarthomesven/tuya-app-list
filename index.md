@@ -81,7 +81,7 @@ This list contains all known Tuya-based apps. If you know any more, please menti
 * BAZZ Smart Home ([Android](https://play.google.com/store/apps/details?id=com.bazz.wifi)) ([iOS](https://apps.apple.com/app/id1451113491))
 * Beafon Home ([Android](https://play.google.com/store/apps/details?id=beafon.app.smarthome)) ([iOS](https://apps.apple.com/app/id1523789426))
 * BEREST Smart ([iOS](https://apps.apple.com/app/id1638035285))
-* BeSmart-Living ([Android](https://play.google.com/store/apps/details?id=com.besmart.smart)) ([iOS](https://apps.apple.com/app/id1549122622))
+* BeSmart-Living ([iOS](https://apps.apple.com/app/id1549122622))
 * BETA Smart ([Android](https://play.google.com/store/apps/details?id=com.beta.smartlife)) ([iOS](https://apps.apple.com/app/id6751463685))
 * Betterlife Connect ([Android](https://play.google.com/store/apps/details?id=com.betterlife.connect)) ([iOS](https://apps.apple.com/app/id1456168754))
 * Baybot ([iOS](https://apps.apple.com/app/id1607453692))
